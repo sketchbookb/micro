@@ -7,6 +7,105 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/03/29/march-photo-challenge.html",
+				
+				"content_html": "<p>📷 March Photo Challenge #29. Slice. Or rather, slices of bacon. Love having breakfast for dinner. Columbia, SC.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 March Photo Challenge #29. Slice. Or rather, slices of bacon. Love having breakfast for dinner. Columbia, SC. \n\n<img src=\"uploads/2023/6d4f77e8ba.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-29T19:32:13-04:00",
+				"url": "https://bobwertz.com/2023/03/29/march-photo-challenge.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/28/march-photo-challenge.html",
+				
+				"content_html": "<p>📷 March Photo Challenge #28. Prompt. My car is prompting me to get gas. Columbia, SC.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 March Photo Challenge #28. Prompt. My car is prompting me to get gas. Columbia, SC. \n\n<img src=\"uploads/2023/c7e3ce0e6c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-28T07:55:49-04:00",
+				"url": "https://bobwertz.com/2023/03/28/march-photo-challenge.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/27/excited-that-my.html",
+				
+				"content_html": "<p>🏀 Excited that my South Carolina Gamecocks are heading to the NCAA Women&rsquo;s Final Four. Two more wins to another championship.</p>\n",
+				"content_text": "🏀 Excited that my South Carolina Gamecocks are heading to the NCAA Women's Final Four. Two more wins to another championship.\n",
+				"date_published": "2023-03-27T22:48:50-04:00",
+				"url": "https://bobwertz.com/2023/03/27/excited-that-my.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/27/march-photo-challenge.html",
+				
+				"content_html": "<p>📷 March Photo Challenge #27. Support. Tonight was Norah’s Senior Night. Lots of people have supported her during her lacrosse career, especially during this season which ended early with an ACL tear. Chapin, SC.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 March Photo Challenge #27. Support. Tonight was Norah’s Senior Night. Lots of people have supported her during her lacrosse career, especially during this season which ended early with an ACL tear. Chapin, SC. \n\n<img src=\"uploads/2023/07f46d38d9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-27T20:58:05-04:00",
+				"url": "https://bobwertz.com/2023/03/27/march-photo-challenge.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/26/watching-louisvilleiowa-womens.html",
+				
+				"content_html": "<p>Watching Louisville/Iowa women&rsquo;s basketball game and both these teams can score. Fun to watch.</p>\n",
+				"content_text": "Watching Louisville/Iowa women's basketball game and both these teams can score. Fun to watch.\n",
+				"date_published": "2023-03-26T21:49:42-04:00",
+				"url": "https://bobwertz.com/2023/03/26/watching-louisvilleiowa-womens.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/26/march-photo-challenge.html",
+				
+				"content_html": "<p>📷 March Photo Challenge #26. Instrument. My wife’s ukulele. Columbia, SC.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 March Photo Challenge #26. Instrument. My wife’s ukulele. Columbia, SC. \n\n<img src=\"uploads/2023/d1ea77e45d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-26T15:45:45-04:00",
+				"url": "https://bobwertz.com/2023/03/26/march-photo-challenge.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/26/i-wrote-up.html",
+				
+				"content_html": "<p>I wrote up my <a href=\"https://bobwertz.com/2023/03/26/first-impressions-of.html\">quick first thoughts about Adobe Firefly</a>, but my 11-year old has also started playing with it. Here&rsquo;s his bronze steam-powered robot walking in a cityscape.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I wrote up my [quick first thoughts about Adobe Firefly](https://bobwertz.com/2023/03/26/first-impressions-of.html), but my 11-year old has also started playing with it. Here's his bronze steam-powered robot walking in a cityscape.\n\n<img src=\"uploads/2023/042b85dd87.png\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-26T14:02:47-04:00",
+				"url": "https://bobwertz.com/2023/03/26/i-wrote-up.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/26/first-impressions-of.html",
+				"title": "First impressions of the Adobe Firefly Beta",
+				"content_html": "<h2 id=\"the-beta-service-gives-some-insight-into-how-adobe-views-ais-role-in-the-creative-process\">The beta service gives some insight into how Adobe views AI&rsquo;s role in the creative process.</h2>\n<p>I recently got access to <a href=\"https://firefly.adobe.com\">Adobe Firefly</a>, a beta generative AI system. It’s not a surprise at all that Adobe is experimenting with generative creative tools. Adobe is clearly looking at ways AI can integrate with the tools that they already offer. Thankfully, unlike an earlier wave of visual AI tools, Adobe has trained their AI model on properly-licensed images. Generated images are restricted to non-commercial use and a label is added to exported images, but <a href=\"https://www.theverge.com/2023/2/6/23587393/ai-art-copyright-lawsuit-getty-images-stable-diffusion\">you shouldn’t see a Getty Images watermark anywhere.</a></p>\n<p>I’ve been following news about generative AI, but I haven’t really experimented with any of the other tools. It’s been more of an abstract curiosity. Now after playing with Adobe Firefly, I can see some of the practical implications of generative AI tools and started to think about how those features could fit into a design workflow. Also, as a Ph.D. student trying to settle on a dissertation topic, I see lots of research questions when I look at generative AI and Adobe Firefly.</p>\n<p>Right now, the service has two features: Text to Image and Text Effects. I’ve spent a little bit of time experimenting with Adobe Firefly and wanted to share some initial impressions.</p>\n<h3 id=\"text-to-image\">Text to image</h3>\n<p>The text to image feature is straightforward. Type in a prompt and Firefly generates four images. On the right, there is a palette with options that lets you refine your request. You can choose the aspect ratio, content type, style, lighting and composition. Below is a screenshot of the interface and a few examples of what it can do:</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Prompt:<!-- raw HTML omitted --> green metal fish-shaped spaceship on an alien planet<br>\n<!-- raw HTML omitted -->Styles:<!-- raw HTML omitted --> art, concept art, dramatic light, flat colors</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Prompt: <!-- raw HTML omitted -->green hot rod racing through the desert<br>\n<!-- raw HTML omitted -->Styles:<!-- raw HTML omitted --> photo, muted, blurry background, backlighting, science fiction</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Prompt:<!-- raw HTML omitted --> loose sketch of a white male with a green sweater and a stubble beard typing on a laptop in a coffee shop<br>\n<!-- raw HTML omitted -->Styles:<!-- raw HTML omitted --> art</p>\n<!-- raw HTML omitted -->\n<p>A couple of quick reflections on using Firefly’s Text to Image feature:</p>\n<!-- raw HTML omitted -->\n<h3 id=\"text-effects\">Text Effects</h3>\n<p>Text Effects lets you specify and apply an AI-generated effect to some text. Firefly has a few sample effects that give you a good idea of what the feature can do. You can choose from 12 different fonts.</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Prompt:<!-- raw HTML omitted --> Green fluffy clouds, tight fit, transparent background</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Prompt: <!-- raw HTML omitted -->Circuit boards, tight fit, grey background</p>\n<!-- raw HTML omitted -->\n<p><!-- raw HTML omitted -->Prompt: <!-- raw HTML omitted -->Flowers and Rocks, loose fit, white background</p>\n<!-- raw HTML omitted -->\n<p>A couple of notes:</p>\n<!-- raw HTML omitted -->\n<h2 id=\"whats-next\">What’s next?</h2>\n<p>Adobe Firefly is definitely a work in progress – it is a beta – but there are more features in development. The Adobe Firefly site lists one feature as coming soon, Recolor Vectors. I’m not sure how that will differ from the Recolor Artwork feature in Adobe Illustrator, but I’m looking forward to trying it out. Several other features are teased as “In exploration” and some of them look interesting. No idea how close to release these are — for all I know, they are ideas on a white board — but “text to vector” and “extend background” could be fun to play with. I’ll likely write additional posts as new features are introduced.</p>\n<p><em>Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.</em></p>\n",
+				"content_text": "## The beta service gives some insight into how Adobe views AI's role in the creative process.\n\nI recently got access to [Adobe Firefly](https://firefly.adobe.com), a beta generative AI system. It’s not a surprise at all that Adobe is experimenting with generative creative tools. Adobe is clearly looking at ways AI can integrate with the tools that they already offer. Thankfully, unlike an earlier wave of visual AI tools, Adobe has trained their AI model on properly-licensed images. Generated images are restricted to non-commercial use and a label is added to exported images, but [you shouldn’t see a Getty Images watermark anywhere.](https://www.theverge.com/2023/2/6/23587393/ai-art-copyright-lawsuit-getty-images-stable-diffusion)\n\nI’ve been following news about generative AI, but I haven’t really experimented with any of the other tools. It’s been more of an abstract curiosity. Now after playing with Adobe Firefly, I can see some of the practical implications of generative AI tools and started to think about how those features could fit into a design workflow. Also, as a Ph.D. student trying to settle on a dissertation topic, I see lots of research questions when I look at generative AI and Adobe Firefly.\n\nRight now, the service has two features: Text to Image and Text Effects. I’ve spent a little bit of time experimenting with Adobe Firefly and wanted to share some initial impressions.\n\n### Text to image\n\nThe text to image feature is straightforward. Type in a prompt and Firefly generates four images. On the right, there is a palette with options that lets you refine your request. You can choose the aspect ratio, content type, style, lighting and composition. Below is a screenshot of the interface and a few examples of what it can do:\n\n<img src=\"uploads/2023/22497739cd.png\" alt=\"Screenshot 2023 03 26 at 9 47 54 AM\" title=\"Screenshot 2023-03-26 at 9.47.54 AM.png\" border=\"0\" width=\"599\" height=\"418\" />\n\n<strong>Prompt:</strong> green metal fish-shaped spaceship on an alien planet   \n<strong>Styles:</strong> art, concept art, dramatic light, flat colors\n\n<img src=\"uploads/2023/d29fb590fe.png\" alt=\"Firefly green+metal fish shaped spaceship on an alien planet art concept art dramatic light flat colors 77148\" title=\"Firefly_green+metal fish-shaped spaceship on an alien planet_art,concept_art,dramatic_light,flat_colors_77148.png\" border=\"0\" width=\"599\" height=\"342\" />\n\n<strong>Prompt: </strong>green hot rod racing through the desert   \n<strong>Styles:</strong> photo, muted, blurry background, backlighting, science fiction\n\n<img src=\"uploads/2023/012c8e0fa1.png\" alt=\"Firefly green+hot rod racing through the desert photo muted blurry background backlighting science fiction 50326\" title=\"Firefly_green+hot rod racing through the desert_photo,muted,blurry_background,backlighting,science_fiction_50326.png\" border=\"0\" width=\"599\" height=\"342\" />\n\n<strong>Prompt:</strong> loose sketch of a white male with a green sweater and a stubble beard typing on a laptop in a coffee shop   \n<strong>Styles:</strong> art\n\n<img src=\"uploads/2023/ca74dc6010.png\" alt=\"Firefly loose+sketch of a white male with a green sweater and a stubble beard typing on a laptop in a coffee shop art 39460\" title=\"Firefly_loose+sketch of a white male with a green sweater and a stubble beard typing on a laptop in a coffee shop_art_39460.png\" border=\"0\" width=\"599\" height=\"342\" />\n\nA couple of quick reflections on using Firefly’s Text to Image feature:\n<ul>\n\t<li> For the content type, I feel art worked best for the creations I generated.</li>\n\t<li> The select similar button lets you refine easily</li>\n\t<li> Realistic people and animals are a struggle. I accidentally generated a person with two noses. And sometimes, an arm connects in the wrong spot.</li>\n\t<li> If you include too many prompts, Firefly often doesn’t know how to resolve them all and you get strange results.</li>\n</ul>\n\n### Text Effects\n\nText Effects lets you specify and apply an AI-generated effect to some text. Firefly has a few sample effects that give you a good idea of what the feature can do. You can choose from 12 different fonts. \n\n<img src=\"uploads/2023/d26d3d2a4a.png\" alt=\"Screenshot 2023 03 26 at 10 14 23 AM\" title=\"Screenshot 2023-03-26 at 10.14.23 AM.png\" border=\"0\" width=\"599\" height=\"418\" />\n\n<strong>Prompt:</strong> Green fluffy clouds, tight fit, transparent background\n\n<img src=\"uploads/2023/d5ea819474.png\" alt=\"Firefly fluffy+green clouds 16071\" title=\"Firefly_fluffy+green clouds_16071.png\" border=\"0\" width=\"599\" height=\"462\" />\n\n<strong>Prompt: </strong>Circuit boards, tight fit, grey background\n\n<img src=\"uploads/2023/f12f4e1a5a.png\" alt=\"Firefly circuit+boards 32694\" title=\"Firefly_circuit+boards_32694.png\" border=\"0\" width=\"599\" height=\"257\" />\n\n<strong>Prompt: </strong>Flowers and Rocks, loose fit, white background\n\n<img src=\"uploads/2023/847de8f1e5.png\" alt=\"Firefly flowers+and rocks 34224\" title=\"Firefly_flowers+and rocks_34224.png\" border=\"0\" width=\"600\" height=\"430\" />\n\nA couple of notes:\n<ul>\n\t<li>If you have two of the same letter, they are identical. And while I understand that, it ruins the hand-created art look. Hopefully they’ll change this in future versions.</li>\n\t<li>The transparent background works well when you use the loose fit because elements overflow the shape of the letters.</li>\n\t<li>I could see this feature being built into Adobe apps eventually.</li>\n</ul>\n\n## What’s next?\n\nAdobe Firefly is definitely a work in progress – it is a beta – but there are more features in development. The Adobe Firefly site lists one feature as coming soon, Recolor Vectors. I’m not sure how that will differ from the Recolor Artwork feature in Adobe Illustrator, but I’m looking forward to trying it out. Several other features are teased as “In exploration” and some of them look interesting. No idea how close to release these are — for all I know, they are ideas on a white board — but “text to vector” and “extend background” could be fun to play with. I’ll likely write additional posts as new features are introduced.\n\n\n_Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina._\n\n",
+				"date_published": "2023-03-26T13:52:56-04:00",
+				"url": "https://bobwertz.com/2023/03/26/first-impressions-of.html",
+				"tags": ["Long Posts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/25/march-photo-challenge.html",
+				
+				"content_html": "<p>📷 March Photo Challenge #25. Spice. Random assortment of seasonings. Columbia, SC.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 March Photo Challenge #25. Spice. Random assortment of seasonings. Columbia, SC. \n\n<img src=\"uploads/2023/11e85c7ac1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-25T20:24:44-04:00",
+				"url": "https://bobwertz.com/2023/03/25/march-photo-challenge.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/24/march-photo-challenge.html",
+				
+				"content_html": "<p>📷 March Photo Challenge #24. Court. Basketball practice facility at the University of South Carolina. Go Gamecocks. Columbia, SC.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 March Photo Challenge #24. Court. Basketball practice facility at the University of South Carolina. Go Gamecocks. Columbia, SC. \n\n<img src=\"uploads/2023/130b086588.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-24T20:00:01-04:00",
+				"url": "https://bobwertz.com/2023/03/24/march-photo-challenge.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/03/24/i-just-got.html",
+				
+				"content_html": "<p>I just got access to <a href=\"https://firefly.adobe.com\">Firefly</a>, Adobe&rsquo;s new generative AI beta service. It&rsquo;s supposedly trained on images that they have the rights to scan. Right now, it&rsquo;s limited, but I&rsquo;m intrigued. I&rsquo;ll write a longer post with examples later after I&rsquo;ve had a chance to experiment.</p>\n",
+				"content_text": "I just got access to [Firefly](https://firefly.adobe.com), Adobe's new generative AI beta service. It's supposedly trained on images that they have the rights to scan. Right now, it's limited, but I'm intrigued. I'll write a longer post with examples later after I've had a chance to experiment.\n",
+				"date_published": "2023-03-24T08:20:01-04:00",
+				"url": "https://bobwertz.com/2023/03/24/i-just-got.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/03/23/march-photo-challenge.html",
 				
 				"content_html": "<p>📷 March Photo Challenge #23. Chance. Flipped a coin. Heads. Columbia, SC.</p>\n<!-- raw HTML omitted -->\n",
