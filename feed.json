@@ -7,10 +7,64 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/06/04/months-ago-i.html",
+				
+				"content_html": "<p>Months ago, I scheduled my daughter&rsquo;s college orientation for tomorrow. Which means that instead of watching the Apple Keynote, I&rsquo;ll be watching presentations about adjusting to college life.</p>\n",
+				"content_text": "Months ago, I scheduled my daughter's college orientation for tomorrow. Which means that instead of watching the Apple Keynote, I'll be watching presentations about adjusting to college life.\n",
+				"date_published": "2023-06-04T21:58:28-04:00",
+				"url": "https://bobwertz.com/2023/06/04/months-ago-i.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/06/03/spending-some-time.html",
+				
+				"content_html": "<p>Spending some time tonight thinking about my dissertation topic. Do I stick with the research topic that I&rsquo;ve worked on for the last few years? Or venture out with a new topic? There are pros and cons to each approach. Just not sure what I want to do.</p>\n",
+				"content_text": "Spending some time tonight thinking about my dissertation topic. Do I stick with the research topic that I've worked on for the last few years? Or venture out with a new topic? There are pros and cons to each approach. Just not sure what I want to do.\n",
+				"date_published": "2023-06-03T21:02:06-04:00",
+				"url": "https://bobwertz.com/2023/06/03/spending-some-time.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/06/02/for-a-short.html",
+				
+				"content_html": "<p>For a short week, it’s been a long week.</p>\n",
+				"content_text": "For a short week, it’s been a long week. \n",
+				"date_published": "2023-06-02T07:09:37-04:00",
+				"url": "https://bobwertz.com/2023/06/02/for-a-short.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/06/01/one-of-my.html",
+				
+				"content_html": "<p>One of my favorite bakeries closed after a long successful run, but I found out yesterday that another wonderful bakery is taking over its location. They&rsquo;ve been selling cakes at local markets and haven&rsquo;t had a permanent space. It&rsquo;s the circle of life, but for bakeries.</p>\n",
+				"content_text": "One of my favorite bakeries closed after a long successful run, but I found out yesterday that another wonderful bakery is taking over its location. They've been selling cakes at local markets and haven't had a permanent space. It's the circle of life, but for bakeries.\n",
+				"date_published": "2023-06-01T07:51:15-04:00",
+				"url": "https://bobwertz.com/2023/06/01/one-of-my.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/05/31/ive-been-to.html",
+				
+				"content_html": "<p>I&rsquo;ve been to a lot of high school graduations over the years. And most of them aren&rsquo;t great. They start late. The guest speakers and district officials give speeches that aren&rsquo;t particularly inspirational. The student speakers share a bunch of inside jokes that make sense to a small slice of the graduating class. And they just last too long.</p>\n<p>So while I was looking forward to my daughter&rsquo;s graduation today, I wasn&rsquo;t looking forward to the ceremony itself. (Not to mention the ceremony was held at 8 a.m. on a Wednesday morning.)</p>\n<p>What I got instead was a delightful ceremony. It started right at 8:00. The student speakers did a wonderful job. They incorporated some meaningful traditions. The district superintendent delivered short and relevant remarks. The whole thing was done in 1.5 hours with around 350 students graduating. Everyone had their name read and crossed the stage. My daughter was happy and I was pleasantly surprised.</p>\n",
+				"content_text": "I've been to a lot of high school graduations over the years. And most of them aren't great. They start late. The guest speakers and district officials give speeches that aren't particularly inspirational. The student speakers share a bunch of inside jokes that make sense to a small slice of the graduating class. And they just last too long.\n\nSo while I was looking forward to my daughter's graduation today, I wasn't looking forward to the ceremony itself. (Not to mention the ceremony was held at 8 a.m. on a Wednesday morning.)\n\nWhat I got instead was a delightful ceremony. It started right at 8:00. The student speakers did a wonderful job. They incorporated some meaningful traditions. The district superintendent delivered short and relevant remarks. The whole thing was done in 1.5 hours with around 350 students graduating. Everyone had their name read and crossed the stage. My daughter was happy and I was pleasantly surprised.\n",
+				"date_published": "2023-05-31T18:54:36-04:00",
+				"url": "https://bobwertz.com/2023/05/31/ive-been-to.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/05/31/our-oldest-graduated.html",
+				
+				"content_html": "<p>Our oldest graduated from high school today. Next stop, studying English at the University of South Carolina.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our oldest graduated from high school today. Next stop, studying English at the University of South Carolina. \n\n<img src=\"uploads/2023/343cfdff77.jpg\" width=\"450\" height=\"600\" alt=\"Happy high school graduate \">\n",
+				"date_published": "2023-05-31T15:01:59-04:00",
+				"url": "https://bobwertz.com/2023/05/31/our-oldest-graduated.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/05/29/hanging-out-on.html",
 				
 				"content_html": "<p>Hanging out on my deck after a long weekend of home improvements. Beautiful evening.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Hanging out on my deck after a long weekend of home improvements. Beautiful evening. \n\n<img src=\"uploads/2023/ae2d447c23.jpg\" width=\"600\" height=\"600\" alt=\"Deck at night with lights, chairs and a grill. Silhouetted trees against a night sky. \">\n",
+				"content_text": "Hanging out on my deck after a long weekend of home improvements. Beautiful evening. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/ae2d447c23.jpg\" width=\"600\" height=\"600\" alt=\"Deck at night with lights, chairs and a grill. Silhouetted trees against a night sky. \">\n",
 				"date_published": "2023-05-29T22:04:05-04:00",
 				"url": "https://bobwertz.com/2023/05/29/hanging-out-on.html",
 				"tags": ["Quick Thoughts"]
@@ -19,7 +73,7 @@
 				"id": "http://bobwertz.micro.blog/2023/05/27/saw-this-beautiful.html",
 				
 				"content_html": "<p>Saw this beautiful flower on campus yesterday.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Saw this beautiful flower on campus yesterday. \n\n<img src=\"uploads/2023/2a178fe66b.jpg\" width=\"600\" height=\"600\" alt=\"Yellow flower with black center. Greenery and brick walkway in the background. \">\n",
+				"content_text": "Saw this beautiful flower on campus yesterday. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/2a178fe66b.jpg\" width=\"600\" height=\"600\" alt=\"Yellow flower with black center. Greenery and brick walkway in the background. \">\n",
 				"date_published": "2023-05-27T19:50:33-04:00",
 				"url": "https://bobwertz.com/2023/05/27/saw-this-beautiful.html",
 				"tags": ["Quick Thoughts"]
