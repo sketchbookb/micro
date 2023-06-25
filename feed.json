@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/06/25/on-a-road.html",
+				
+				"content_html": "<p>On a road trip from Columbia to Durham yesterday, I drove on five different interstates… I-26 &gt; I-20 &gt; I-77 &gt; I-85 &gt; I-40.</p>\n",
+				"content_text": "On a road trip from Columbia to Durham yesterday, I drove on five different interstates… I-26 > I-20 > I-77 > I-85 > I-40. \n",
+				"date_published": "2023-06-25T18:39:43-04:00",
+				"url": "https://bobwertz.com/2023/06/25/on-a-road.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/06/18/while-on-a.html",
+				
+				"content_html": "<p>While on a roadtrip to Asheville, NC this weekend, I was looking for what electric cars I&rsquo;d see along the way. This weekend, in addition to a bunch of Teslas, I spotted two Rivian SUVs, a Kia EV6, a few Chevy Bolts and a Polestar 2. It&rsquo;s the first time I&rsquo;ve seen a Rivian R1S in person. Looked sharp.</p>\n",
+				"content_text": "While on a roadtrip to Asheville, NC this weekend, I was looking for what electric cars I'd see along the way. This weekend, in addition to a bunch of Teslas, I spotted two Rivian SUVs, a Kia EV6, a few Chevy Bolts and a Polestar 2. It's the first time I've seen a Rivian R1S in person. Looked sharp.\n",
+				"date_published": "2023-06-18T20:50:17-04:00",
+				"url": "https://bobwertz.com/2023/06/18/while-on-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/06/17/view-from-a.html",
+				
+				"content_html": "<p>View from a stoplight in Asheville, North Carolina.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "View from a stoplight in Asheville, North Carolina.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"600\" alt=\"Sun setting behind some mountains in Asheville, NC. \">\n",
+				"date_published": "2023-06-17T21:15:11-04:00",
+				"url": "https://bobwertz.com/2023/06/17/view-from-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/06/16/i-moved-out.html",
+				
+				"content_html": "<p>I moved out of my cube today for a new office slightly closer to campus. And while I love my new office – the natural light is wonderful – I’m a little sad to see the old cube go. It’s amazing how a place can become so meaningful over time. Even a simple beige cube.</p>\n",
+				"content_text": "I moved out of my cube today for a new office slightly closer to campus. And while I love my new office – the natural light is wonderful – I’m a little sad to see the old cube go. It’s amazing how a place can become so meaningful over time. Even a simple beige cube. \n",
+				"date_published": "2023-06-16T19:11:14-04:00",
+				"url": "https://bobwertz.com/2023/06/16/i-moved-out.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/06/14/saw-this-article.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/2023/06/14/us/southern-baptist-women-pastors-ouster.html\">Saw this article in the NY Times</a> about the Southern Baptist Convention kicking out a megachurch for ordaining women. We are ELCA Lutherans and my children have <em>always</em> had a woman as a pastor. So here&rsquo;s a shoutout to Pastor Karen, Pastor Ginger and Pastor Joanna. I&rsquo;m grateful that you have been able to be a positive presence for our family and thankful that the Evangelical Lutheran Church in America allows you to serve as you are called.</p>\n",
+				"content_text": "[Saw this article in the NY Times](https://www.nytimes.com/2023/06/14/us/southern-baptist-women-pastors-ouster.html) about the Southern Baptist Convention kicking out a megachurch for ordaining women. We are ELCA Lutherans and my children have _always_ had a woman as a pastor. So here's a shoutout to Pastor Karen, Pastor Ginger and Pastor Joanna. I'm grateful that you have been able to be a positive presence for our family and thankful that the Evangelical Lutheran Church in America allows you to serve as you are called.\n",
+				"date_published": "2023-06-14T14:13:08-04:00",
+				"url": "https://bobwertz.com/2023/06/14/saw-this-article.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/06/14/havard-business-review.html",
+				
+				"content_html": "<p><a href=\"https://hbr.org/2023/06/what-is-apples-vision-pro-really-for\">Havard Business Review</a> with an interesting (academic) take about how developers should view the Apple Vision Pro:</p>\n<blockquote>\n<p>Developers looking to profit off the platform Apple has created would do well to focus on applications that provide users with hard-to-access contextual information at just the right level of detail.</p>\n</blockquote>\n",
+				"content_text": "[Havard Business Review](https://hbr.org/2023/06/what-is-apples-vision-pro-really-for) with an interesting (academic) take about how developers should view the Apple Vision Pro:\n\n>Developers looking to profit off the platform Apple has created would do well to focus on applications that provide users with hard-to-access contextual information at just the right level of detail. \n",
+				"date_published": "2023-06-14T08:58:18-04:00",
+				"url": "https://bobwertz.com/2023/06/14/havard-business-review.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/06/14/got-to-work.html",
 				
 				"content_html": "<p>Got to work. Found out I grabbed the wrong laptop. <em>Sigh.</em></p>\n",
