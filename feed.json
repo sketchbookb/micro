@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/06/28/ive-been-trying.html",
+				
+				"content_html": "<p>I&rsquo;ve been trying to go to bed earlier. The result is that I am simply waking up earlier, which isn&rsquo;t necessarily helpful.</p>\n",
+				"content_text": "I've been trying to go to bed earlier. The result is that I am simply waking up earlier, which isn't necessarily helpful.\n",
+				"date_published": "2023-06-28T03:47:52-04:00",
+				"url": "https://bobwertz.com/2023/06/28/ive-been-trying.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/06/25/on-a-road.html",
 				
 				"content_html": "<p>On a road trip from Columbia to Durham yesterday, I drove on five different interstates… I-26 &gt; I-20 &gt; I-77 &gt; I-85 &gt; I-40.</p>\n",
@@ -157,6 +166,33 @@
 				"content_text": "Saw this beautiful flower on campus yesterday. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/2a178fe66b.jpg\" width=\"600\" height=\"600\" alt=\"Yellow flower with black center. Greenery and brick walkway in the background. \">\n",
 				"date_published": "2023-05-27T19:50:33-04:00",
 				"url": "https://bobwertz.com/2023/05/27/saw-this-beautiful.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/05/25/you-are-currently.html",
+				"title": "You are currently being recorded.",
+				"content_html": "<p>Our neighbors installed a new security system a couple of weeks ago. When you walk anywhere near it &ndash; and that radius includes <em>our</em> driveway &ndash; a recording plays: &ldquo;You are currently being recorded.&rdquo;</p>\n<p>We have great neighbors, but when I first heard it, I was a little annoyed. My wife was irritated, too. Every time we walked to our cars&hellip; &ldquo;You are currently being recorded.&rdquo;</p>\n<p>A few days after this started, I was walking out to the car with my kids and the alarm system informed us that we were being recorded&hellip; and my 15-year-old daughter waived in the general direction of the camera, yelled &ldquo;Hello camera&rdquo; and got in the car. She repeats this greeting every day when she leaves for school, choosing to be amused instead of irritated.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<p>There are two lessons in this story:</p>\n<ol>\n<li>\n<p>Don&rsquo;t install a talking alarm system. It&rsquo;s annoying. (My neighbor isn&rsquo;t happy either. He says it is way too sensitive and goes off at the slightest movement.)</p>\n</li>\n<li>\n<p>We can choose to be amused instead of irritated. Sometimes, it&rsquo;s best to greet the metaphorical camera and go on with your day.</p>\n</li>\n</ol>\n<p><em>Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.</em></p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>We asked our neighbor if the camera records audio. It doesn&rsquo;t. Jill knows this. She says hello anyway.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "Our neighbors installed a new security system a couple of weeks ago. When you walk anywhere near it -- and that radius includes _our_ driveway -- a recording plays: \"You are currently being recorded.\"\n\nWe have great neighbors, but when I first heard it, I was a little annoyed. My wife was irritated, too. Every time we walked to our cars... \"You are currently being recorded.\"\n\nA few days after this started, I was walking out to the car with my kids and the alarm system informed us that we were being recorded... and my 15-year-old daughter waived in the general direction of the camera, yelled \"Hello camera\" and got in the car. She repeats this greeting every day when she leaves for school, choosing to be amused instead of irritated.[^1]\n\nThere are two lessons in this story:\n\n1. Don't install a talking alarm system. It's annoying. (My neighbor isn't happy either. He says it is way too sensitive and goes off at the slightest movement.)  \n\n2. We can choose to be amused instead of irritated. Sometimes, it's best to greet the metaphorical camera and go on with your day.   \n\n_Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina._\n\n[^1]: We asked our neighbor if the camera records audio. It doesn't. Jill knows this. She says hello anyway.\n",
+				"date_published": "2023-05-25T21:07:43-04:00",
+				"url": "https://bobwertz.com/2023/05/25/you-are-currently.html",
+				"tags": ["Long Posts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/05/23/im-really-intrigued.html",
+				
+				"content_html": "<p>I&rsquo;m really intrigued by Adobe&rsquo;s approach to generative AI. Building AI tools that assist the process of creative development, but don&rsquo;t seek to replace it. The <a href=\"https://www.theverge.com/2023/5/23/23734027/adobe-photoshop-generative-fill-ai-image-generator-firefly\">Generative Fill</a> feature that they are building into Photoshop looks seriously useful.</p>\n",
+				"content_text": "I'm really intrigued by Adobe's approach to generative AI. Building AI tools that assist the process of creative development, but don't seek to replace it. The [Generative Fill](https://www.theverge.com/2023/5/23/23734027/adobe-photoshop-generative-fill-ai-image-generator-firefly) feature that they are building into Photoshop looks seriously useful.\n",
+				"date_published": "2023-05-23T08:41:46-04:00",
+				"url": "https://bobwertz.com/2023/05/23/im-really-intrigued.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/05/21/jamovi-is-so.html",
+				
+				"content_html": "<p><a href=\"https://www.jamovi.org\">Jamovi</a> is so much easier to use than SPSS.</p>\n",
+				"content_text": "[Jamovi](https://www.jamovi.org) is so much easier to use than SPSS.\n",
+				"date_published": "2023-05-21T21:25:31-04:00",
+				"url": "https://bobwertz.com/2023/05/21/jamovi-is-so.html",
 				"tags": ["Quick Thoughts"]
 			},
 			{
