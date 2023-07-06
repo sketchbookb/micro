@@ -7,6 +7,132 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/07/06/just-plotted-out.html",
+				
+				"content_html": "<p>Just plotted out a walking loop inside our new office building. It’s too hot right now to walk outside at lunch.</p>\n",
+				"content_text": "Just plotted out a walking loop inside our new office building. It’s too hot right now to walk outside at lunch.\n",
+				"date_published": "2023-07-06T13:10:56-04:00",
+				"url": "https://bobwertz.com/2023/07/06/just-plotted-out.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/06/so-there-are.html",
+				
+				"content_html": "<p>So there are lots of rough edges on Threads, and it&rsquo;s owned by Meta, which is problematic. But their killer feature is audience. I&rsquo;ve been in for about 12 hours and I see lots of people I know. Will they stay? No idea. But it&rsquo;s off to a solid start.</p>\n",
+				"content_text": "So there are lots of rough edges on Threads, and it's owned by Meta, which is problematic. But their killer feature is audience. I've been in for about 12 hours and I see lots of people I know. Will they stay? No idea. But it's off to a solid start.\n",
+				"date_published": "2023-07-06T09:49:23-04:00",
+				"url": "https://bobwertz.com/2023/07/06/so-there-are.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/05/so-i-got.html",
+				
+				"content_html": "<p>So I got access to Bluesky about 5 minutes after I started a Threads account. Lots to like about both, and I think they could both turn into solid Twitter alternatives. But I&rsquo;m still happiest here on Micro.Blog.</p>\n",
+				"content_text": "So I got access to Bluesky about 5 minutes after I started a Threads account. Lots to like about both, and I think they could both turn into solid Twitter alternatives. But I'm still happiest here on Micro.Blog.\n",
+				"date_published": "2023-07-05T20:48:57-04:00",
+				"url": "https://bobwertz.com/2023/07/05/so-i-got.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/04/the-instagram-threads.html",
+				"title": "The Instagram Threads launch and media effects theory",
+				"content_html": "<p>Yesterday, <a href=\"https://bobwertz.com/2023/07/03/three-questions-ahead.html\">I mentioned I was interested in the media narrative</a> surrounding the introduction of Instagram Threads. I wanted to expand on what I’m looking for, and to do that, I need to start with some mass communications theory.</p>\n<p>I’m a Ph.D. student that mostly researches visual effects, but I’ve taken a few classes that look at how media effects work. There are levels to media effects, but essentially, you can break it into three types of effects.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup></p>\n<ul>\n<li><strong>Agenda Setting</strong> tells you what to think about.</li>\n<li><strong>Framing</strong> tells you how to think about it.</li>\n<li><strong>Priming</strong> prompts you to take an action.</li>\n</ul>\n<p>Everyone teaches this a little differently, but this is how I like to think about it. As I look at how the media covers Instagram’s Thread, I think it’s worth thinking about the coverage in these terms.</p>\n<h3 id=\"agenda-setting\">Agenda Setting</h3>\n<p>The media is very good and setting the “agenda” for what people are thinking about. If the media you watch or read is covering a topic, you are more likely to care about the topic.</p>\n<p>We know that the tech media like The Verge have picked up the thread and predictably, tech circles online are discussing what Instagram Threads will mean for social media and the Fediverse. This is agenda setting in action.</p>\n<p>But will the <em>mass</em> media cover it? Will the CNN website run a story about Instagram Threads? Will The NY Times run an explainer about how to use Threads? Will South-Carolina-native and all-around good guy Craig Melvin talk about Threads on the Today Show? I don’t know.</p>\n<p>While “agenda setting” sounds a little nefarious, it isn’t always. There are many factors that go into story selection. One major challenge right now is the crowded media environment. Take a look at the front pages of major news websites and what do you see? Supreme Court rulings. Mass shootings. Russia’s mutiny. Ukraine’s counteroffensive. Trump’s indictments. Protests in France. The U.S. relationship with China. Interest rates. Inflation. These topics all compete for space and time in a news organization. Does the introduction of a new service from Meta really rank up there in importance with these other topics?</p>\n<p>News media also pay attention to metrics about their readership. If viewers are reading stories about Threads, editors will assign more stories. If people aren’t interested in the topic, it will fade. There seems to be general interest in the Elon Musk’s mismanagement of Twitter and his rivalry with Mark Zuckerberg. If people are reading the stories about Threads, maybe Meta does get a little more coverage than something like this would normally merit.<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup></p>\n<p>Honestly, I’ll know if there is mass media coverage when my wife asks me what I think about it.</p>\n<h3 id=\"framing\">Framing</h3>\n<p>The next level relates to how the stories are positioned. We know that tech media is framing the release of Instagram Threads as the latest change in a rapidly changing social media world. The stories right now seem to be largely framed as a contrast with existing Twitter alternatives, especially given the conversations within Mastodon admins about whether to preemptively block access to a service that may support ActivityPub.</p>\n<p>But for a mass media audience, that’s all too nuanced. Given the high profile implosion of Twitter, and the bravado between Musk and Zuckerberg, I think pretty much every story is going to frame Instagram Threads as a Twitter-killer.\nI do imagine that they’ll at least mention Mastodon and Bluesky. Beyond that, who knows.</p>\n<h3 id=\"priming\">Priming</h3>\n<p>If the mass media covers the introduction of Threads – and the framing is positive – the coverage may be enough to prompt people to sign up for accounts. This priming effect is typically short-lived, but if Meta is able to get a lot of news coverage, there may be a surge in sign ups not too dissimilar to the surge in interest surrounding Mastodon and Bluesky. This won’t necessarily translate into engaged customers, but getting people to download the app and try the service is the first hurdle for Meta.</p>\n<hr>\n<p>So as you look at the media coverage surrounding the launch of Instagram Threads, think about it in terms of agenda setting, framing and priming. (And actually, as you look at media bias in general, these three concepts are helpful in understanding how it works and why it happens.)</p>\n<hr>\n<p><!-- raw HTML omitted -->Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.<!-- raw HTML omitted --></p>\n<section class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\" role=\"doc-endnote\">\n<p>I’ve massively simplified things, so if one of my professors sees this… I’m sorry.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\" role=\"doc-endnote\">\n<p>Unlike Twitter, Facebook actually has a public relations team. They should be able to round up some significant coverage.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</section>\n",
+				"content_text": "Yesterday, [I mentioned I was interested in the media narrative](https://bobwertz.com/2023/07/03/three-questions-ahead.html) surrounding the introduction of Instagram Threads. I wanted to expand on what I’m looking for, and to do that, I need to start with some mass communications theory.\n\nI’m a Ph.D. student that mostly researches visual effects, but I’ve taken a few classes that look at how media effects work. There are levels to media effects, but essentially, you can break it into three types of effects.[^1]\n\n* **Agenda Setting** tells you what to think about.\n* **Framing** tells you how to think about it.\n* **Priming** prompts you to take an action.\n\nEveryone teaches this a little differently, but this is how I like to think about it. As I look at how the media covers Instagram’s Thread, I think it’s worth thinking about the coverage in these terms.\n\n### Agenda Setting  \nThe media is very good and setting the “agenda” for what people are thinking about. If the media you watch or read is covering a topic, you are more likely to care about the topic.\n\nWe know that the tech media like The Verge have picked up the thread and predictably, tech circles online are discussing what Instagram Threads will mean for social media and the Fediverse. This is agenda setting in action.\n\nBut will the _mass_ media cover it? Will the CNN website run a story about Instagram Threads? Will The NY Times run an explainer about how to use Threads? Will South-Carolina-native and all-around good guy Craig Melvin talk about Threads on the Today Show? I don’t know.\n\nWhile “agenda setting” sounds a little nefarious, it isn’t always. There are many factors that go into story selection. One major challenge right now is the crowded media environment. Take a look at the front pages of major news websites and what do you see? Supreme Court rulings. Mass shootings. Russia’s mutiny. Ukraine’s counteroffensive. Trump’s indictments. Protests in France. The U.S. relationship with China. Interest rates. Inflation. These topics all compete for space and time in a news organization. Does the introduction of a new service from Meta really rank up there in importance with these other topics?\n\nNews media also pay attention to metrics about their readership. If viewers are reading stories about Threads, editors will assign more stories. If people aren’t interested in the topic, it will fade. There seems to be general interest in the Elon Musk’s mismanagement of Twitter and his rivalry with Mark Zuckerberg. If people are reading the stories about Threads, maybe Meta does get a little more coverage than something like this would normally merit.[^2]\n\nHonestly, I’ll know if there is mass media coverage when my wife asks me what I think about it.\n\n### Framing  \nThe next level relates to how the stories are positioned. We know that tech media is framing the release of Instagram Threads as the latest change in a rapidly changing social media world. The stories right now seem to be largely framed as a contrast with existing Twitter alternatives, especially given the conversations within Mastodon admins about whether to preemptively block access to a service that may support ActivityPub.\n\nBut for a mass media audience, that’s all too nuanced. Given the high profile implosion of Twitter, and the bravado between Musk and Zuckerberg, I think pretty much every story is going to frame Instagram Threads as a Twitter-killer. \nI do imagine that they’ll at least mention Mastodon and Bluesky. Beyond that, who knows.\n\n### Priming  \nIf the mass media covers the introduction of Threads – and the framing is positive – the coverage may be enough to prompt people to sign up for accounts. This priming effect is typically short-lived, but if Meta is able to get a lot of news coverage, there may be a surge in sign ups not too dissimilar to the surge in interest surrounding Mastodon and Bluesky. This won’t necessarily translate into engaged customers, but getting people to download the app and try the service is the first hurdle for Meta. \n\n---\n\nSo as you look at the media coverage surrounding the launch of Instagram Threads, think about it in terms of agenda setting, framing and priming. (And actually, as you look at media bias in general, these three concepts are helpful in understanding how it works and why it happens.)\n\n---\n\n<em>Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.</em>\n\n[^1]: I’ve massively simplified things, so if one of my professors sees this… I’m sorry.\n\n[^2]: Unlike Twitter, Facebook actually has a public relations team. They should be able to round up some significant coverage.\n",
+				"date_published": "2023-07-04T20:11:33-04:00",
+				"url": "https://bobwertz.com/2023/07/04/the-instagram-threads.html",
+				"tags": ["Long Posts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/04/i-dont-know.html",
+				
+				"content_html": "<p>I don&rsquo;t know much about how wine is made, but after reading <a href=\"https://www.nytimes.com/2023/07/04/magazine/maggie-harrison-wine-antica-terra.html\">Maggie Harrison’s War on Wine</a>, I&rsquo;m fascinated with the whole process&hellip;</p>\n",
+				"content_text": "I don't know much about how wine is made, but after reading [Maggie Harrison’s War on Wine](https://www.nytimes.com/2023/07/04/magazine/maggie-harrison-wine-antica-terra.html), I'm fascinated with the whole process...\n",
+				"date_published": "2023-07-04T15:46:34-04:00",
+				"url": "https://bobwertz.com/2023/07/04/i-dont-know.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/04/this-article-on.html",
+				
+				"content_html": "<p>This <a href=\"https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon\">article on the The Verge about the changing social media environment</a> resonated with me.</p>\n<blockquote>\n<p>You could argue, I suppose, that this is just the natural end of a specific part of the internet. We spent the last two decades answering a question — what would happen if you put everyone on the planet into a room and let them all talk to each other? — and now we’re moving onto the next one. It might be better this way. But the way it has all changed, and the speed with which it has happened, has left an everybody-sized hole in the internet.</p>\n</blockquote>\n",
+				"content_text": "This [article on the The Verge about the changing social media environment](https://www.theverge.com/2023/7/3/23782607/social-web-public-apps-end-reddit-twitter-mastodon) resonated with me.\n\n> You could argue, I suppose, that this is just the natural end of a specific part of the internet. We spent the last two decades answering a question — what would happen if you put everyone on the planet into a room and let them all talk to each other? — and now we’re moving onto the next one. It might be better this way. But the way it has all changed, and the speed with which it has happened, has left an everybody-sized hole in the internet.\n\n",
+				"date_published": "2023-07-04T10:04:30-04:00",
+				"url": "https://bobwertz.com/2023/07/04/this-article-on.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/03/three-questions-ahead.html",
+				"title": "Three questions ahead of the release of Instagram's Threads",
+				"content_html": "<p>I looks like Meta will release their text-based, Instagram-branded Twitter competitor this week. Am I <!-- raw HTML omitted -->excited<!-- raw HTML omitted --> about <a href=\"https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store\">Instagram Threads</a>? Not really. I&rsquo;m happy with the current state of my social media usage.</p>\n<p>Am I <!-- raw HTML omitted -->curious<!-- raw HTML omitted --> about it? Absolutely. We are in a fascinating period of change in the services we use online and the ways we share information. Specifically, I&rsquo;m interested in three questions:</p>\n<ol>\n<li>\n<p><!-- raw HTML omitted -->Will Instagram users actually adopt it?<!-- raw HTML omitted --> This is the big question. Will the people I follow on Instagram start accounts? And will they post content that I&rsquo;m interested in? What will the demographics of the user base be? So many question about what this audience might look like.</p>\n</li>\n<li>\n<p><!-- raw HTML omitted -->How will the ActivityPub implementation work?<!-- raw HTML omitted --> As a devoted Micro.Blog user, I&rsquo;m interested in the rumored ActivityPub integration. Will I be able to follow Threads users on Micro.Blog? Can I cross post from Micro.Blog? As the first mainstream ActivityPub implementation, it will be interesting to see how they connect with the larger Fediverse.</p>\n</li>\n<li>\n<p><!-- raw HTML omitted -->What&rsquo;s the media narrative?<!-- raw HTML omitted --> It&rsquo;s guaranteed that there will be a direct contrast with the dumpster fire that Twitter has become, but what other media narratives will take shape. How will it be compared to Mastodon and Bluesky? Will media coverage increase consumer knowledge about the ActivityPub? Sounds like a research paper for grad school.</p>\n</li>\n</ol>\n<p>I&rsquo;ll probably sign up for an account, since Instagram is pretty much the only social media I use other than Micro.Blog. And we&rsquo;ll see what happens.</p>\n<hr>\n<p><!-- raw HTML omitted -->Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.<!-- raw HTML omitted --></p>\n",
+				"content_text": "I looks like Meta will release their text-based, Instagram-branded Twitter competitor this week. Am I <em>excited</em> about [Instagram Threads](https://www.theverge.com/2023/7/3/23783227/meta-instagram-threads-twitter-competitor-app-store)? Not really. I'm happy with the current state of my social media usage.\n\nAm I <em>curious</em> about it? Absolutely. We are in a fascinating period of change in the services we use online and the ways we share information. Specifically, I'm interested in three questions:\n\n1. <strong>Will Instagram users actually adopt it?</strong> This is the big question. Will the people I follow on Instagram start accounts? And will they post content that I'm interested in? What will the demographics of the user base be? So many question about what this audience might look like.\n\n2. <strong>How will the ActivityPub implementation work?</strong> As a devoted Micro.Blog user, I'm interested in the rumored ActivityPub integration. Will I be able to follow Threads users on Micro.Blog? Can I cross post from Micro.Blog? As the first mainstream ActivityPub implementation, it will be interesting to see how they connect with the larger Fediverse.\n\n3. <strong>What's the media narrative?</strong> It's guaranteed that there will be a direct contrast with the dumpster fire that Twitter has become, but what other media narratives will take shape. How will it be compared to Mastodon and Bluesky? Will media coverage increase consumer knowledge about the ActivityPub? Sounds like a research paper for grad school.\n\nI'll probably sign up for an account, since Instagram is pretty much the only social media I use other than Micro.Blog. And we'll see what happens.\n\n---\n\n<em>Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.</em>\n",
+				"date_published": "2023-07-03T21:20:27-04:00",
+				"url": "https://bobwertz.com/2023/07/03/three-questions-ahead.html",
+				"tags": ["Long Posts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/03/my-son-lost.html",
+				
+				"content_html": "<p>My son lost his AirPods a few weeks ago. (These were my first generation AirPods that I replaced when I got AirPods Pro.) Today he found them in their case in a neighbor&rsquo;s yard. These AirPods have been sitting exposed to extreme heat and rain for 2+ weeks, and guess what? Somehow, they still work.</p>\n",
+				"content_text": "My son lost his AirPods a few weeks ago. (These were my first generation AirPods that I replaced when I got AirPods Pro.) Today he found them in their case in a neighbor's yard. These AirPods have been sitting exposed to extreme heat and rain for 2+ weeks, and guess what? Somehow, they still work.\r\n",
+				"date_published": "2023-07-03T18:20:42-04:00",
+				"url": "https://bobwertz.com/2023/07/03/my-son-lost.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/03/walking-across-campus.html",
+				
+				"content_html": "<p>Walking across campus today and saw South Carolina Women&rsquo;s Basketball Coach Dawn Staley and her dog, Champ. Funny thing is, Champ came around the corner first and I recognized him instantly&hellip;</p>\n",
+				"content_text": "Walking across campus today and saw South Carolina Women's Basketball Coach Dawn Staley and her dog, Champ. Funny thing is, Champ came around the corner first and I recognized him instantly...\n",
+				"date_published": "2023-07-03T11:22:56-04:00",
+				"url": "https://bobwertz.com/2023/07/03/walking-across-campus.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/02/made-a-batch.html",
+				
+				"content_html": "<p>Made a batch of boiled peanuts tonight. So good. Y&rsquo;all are likely familiar with roasted peanuts, but in the South, we boil them. You don&rsquo;t really need a <a href=\"https://www.simplyrecipes.com/recipes/boiled_peanuts/\">recipe</a>&hellip; Green (raw) peanuts. A copious amount of salt. Boil for a few hours. Enjoy.</p>\n",
+				"content_text": "Made a batch of boiled peanuts tonight. So good. Y'all are likely familiar with roasted peanuts, but in the South, we boil them. You don't really need a [recipe](https://www.simplyrecipes.com/recipes/boiled_peanuts/)... Green (raw) peanuts. A copious amount of salt. Boil for a few hours. Enjoy.\n",
+				"date_published": "2023-07-02T22:31:51-04:00",
+				"url": "https://bobwertz.com/2023/07/02/made-a-batch.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/02/with-the-july.html",
+				
+				"content_html": "<p>With the July 4 holiday falling on a Tuesday, pretty much everyone at the office took Monday off. Except me. I’m holding down the fort tomorrow…</p>\n",
+				"content_text": "With the July 4 holiday falling on a Tuesday, pretty much everyone at the office took Monday off. Except me. I’m holding down the fort tomorrow…\n",
+				"date_published": "2023-07-02T21:33:17-04:00",
+				"url": "https://bobwertz.com/2023/07/02/with-the-july.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/02/made-the-jump.html",
+				
+				"content_html": "<p>Made the jump to using the Tiny Theme. Still a lot of CSS tinkering to do, but happy so far. Added my fish logo to the top, updated the color scheme and switched some of the headers to one of the typefaces I designed. Thanks <a href=\"https://micro.blog/Mtt\">@Mtt</a> for such great work on this theme.</p>\n",
+				"content_text": "Made the jump to using the Tiny Theme. Still a lot of CSS tinkering to do, but happy so far. Added my fish logo to the top, updated the color scheme and switched some of the headers to one of the typefaces I designed. Thanks [@Mtt](https://micro.blog/Mtt) for such great work on this theme.\n",
+				"date_published": "2023-07-02T13:17:51-04:00",
+				"url": "https://bobwertz.com/2023/07/02/made-the-jump.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/02/just-took-a.html",
+				
+				"content_html": "<p>Just took a walk on the trails behind our house for the first time in a couple of months. It&rsquo;s a little tougher walk with Columbia, SC heat and humidity&hellip;</p>\n",
+				"content_text": "Just took a walk on the trails behind our house for the first time in a couple of months. It's a little tougher walk with Columbia, SC heat and humidity...\n",
+				"date_published": "2023-07-02T11:42:15-04:00",
+				"url": "https://bobwertz.com/2023/07/02/just-took-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/01/happy-bobby-bonilla.html",
+				
+				"content_html": "<p><a href=\"https://www.espn.com/mlb/story/_/id/37938979/bobby-bonilla-day-2023-new-york-mets-paid-119m-every-july-1\">Happy Bobby Bonilla Day!</a> ⚾️</p>\n",
+				"content_text": "[Happy Bobby Bonilla Day!](https://www.espn.com/mlb/story/_/id/37938979/bobby-bonilla-day-2023-new-york-mets-paid-119m-every-july-1) ⚾️\n",
+				"date_published": "2023-07-01T10:36:04-04:00",
+				"url": "https://bobwertz.com/2023/07/01/happy-bobby-bonilla.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/06/28/ive-been-trying.html",
 				
 				"content_html": "<p>I&rsquo;ve been trying to go to bed earlier. The result is that I am simply waking up earlier, which isn&rsquo;t necessarily helpful.</p>\n",
@@ -37,7 +163,7 @@
 				"id": "http://bobwertz.micro.blog/2023/06/17/view-from-a.html",
 				
 				"content_html": "<p>View from a stoplight in Asheville, North Carolina.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "View from a stoplight in Asheville, North Carolina.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"600\" alt=\"Sun setting behind some mountains in Asheville, NC. \">\n",
+				"content_text": "View from a stoplight in Asheville, North Carolina.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/image.jpg\" width=\"600\" height=\"600\" alt=\"Sun setting behind some mountains in Asheville, NC. \">\n",
 				"date_published": "2023-06-17T21:15:11-04:00",
 				"url": "https://bobwertz.com/2023/06/17/view-from-a.html",
 				"tags": ["Quick Thoughts"]
