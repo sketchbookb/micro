@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/07/11/so-ive-set.html",
+				
+				"content_html": "<p>So I&rsquo;ve set up Micro.Blog to Bluesky crossposting. Just testing to see if it works.</p>\n",
+				"content_text": "So I've set up Micro.Blog to Bluesky crossposting. Just testing to see if it works.\n",
+				"date_published": "2023-07-11T20:21:46-04:00",
+				"url": "https://bobwertz.com/2023/07/11/so-ive-set.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/08/according-to-facebook.html",
+				
+				"content_html": "<p>According to Facebook Memories, 12 years ago, people were asking me for Google+ invites. Just a reminder that initial hype doesn&rsquo;t translate into long term success.</p>\n",
+				"content_text": "According to Facebook Memories, 12 years ago, people were asking me for Google+ invites. Just a reminder that initial hype doesn't translate into long term success.\n",
+				"date_published": "2023-07-08T09:30:38-04:00",
+				"url": "https://bobwertz.com/2023/07/08/according-to-facebook.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/08/threads-arrival-shows.html",
+				
+				"content_html": "<p><a href=\"https://www.washingtonpost.com/politics/2023/07/07/threads-twitter-media-fight/\">Threads arrival shows social media is fragmenting like traditional media did - The Washington Post</a></p>\n<blockquote>\n<p>Social media has now splintered in the same way the traditional media did, with unclear long-term effects.</p>\n</blockquote>\n",
+				"content_text": "[Threads arrival shows social media is fragmenting like traditional media did - The Washington Post](https://www.washingtonpost.com/politics/2023/07/07/threads-twitter-media-fight/)\n\n> Social media has now splintered in the same way the traditional media did, with unclear long-term effects.\n",
+				"date_published": "2023-07-08T07:24:50-04:00",
+				"url": "https://bobwertz.com/2023/07/08/threads-arrival-shows.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/07/billboard-companies-always.html",
+				
+				"content_html": "<p>Billboard companies always give me PSD (Photoshop) templates and I don’t understand that at all. Who builds billboards in Photoshop?</p>\n",
+				"content_text": "Billboard companies always give me PSD (Photoshop) templates and I don’t understand that at all. Who builds billboards in Photoshop?\n",
+				"date_published": "2023-07-07T08:40:32-04:00",
+				"url": "https://bobwertz.com/2023/07/07/billboard-companies-always.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/06/predictably-the-mass.html",
+				
+				"content_html": "<p>Predictably, the mass media narrative about Instagram Threads is 100% Twitter vs. Threads and Elon vs. Zuckerberg. Mastodon, Bluesky, ActivityPub and Fediverse only rarely appear in news articles.</p>\n",
+				"content_text": "Predictably, the mass media narrative about Instagram Threads is 100% Twitter vs. Threads and Elon vs. Zuckerberg. Mastodon, Bluesky, ActivityPub and Fediverse only rarely appear in news articles.\n",
+				"date_published": "2023-07-06T20:42:29-04:00",
+				"url": "https://bobwertz.com/2023/07/06/predictably-the-mass.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/07/06/just-plotted-out.html",
 				
 				"content_html": "<p>Just plotted out a walking loop inside our new office building. It’s too hot right now to walk outside at lunch.</p>\n",
