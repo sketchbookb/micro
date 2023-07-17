@@ -7,12 +7,102 @@
 	"items": [
 		
 			{
-				"id": "http://bobwertz.micro.blog/2023/07/11/so-ive-set.html",
+				"id": "http://bobwertz.micro.blog/2023/07/16/i-was-going.html",
 				
-				"content_html": "<p>So I&rsquo;ve set up Micro.Blog to Bluesky crossposting. Just testing to see if it works.</p>\n",
-				"content_text": "So I've set up Micro.Blog to Bluesky crossposting. Just testing to see if it works.\n",
-				"date_published": "2023-07-11T20:21:46-04:00",
-				"url": "https://bobwertz.com/2023/07/11/so-ive-set.html",
+				"content_html": "<p>I was going through my sketchbooks today and realized that I haven&rsquo;t been sketching lately. Need to get back in the habit.</p>\n",
+				"content_text": "I was going through my sketchbooks today and realized that I haven't been sketching lately. Need to get back in the habit.\n",
+				"date_published": "2023-07-16T21:59:36-04:00",
+				"url": "https://bobwertz.com/2023/07/16/i-was-going.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/16/trying-to-add.html",
+				
+				"content_html": "<p>Trying to add some academic journal RSS feeds to Feedbin. Most of them have feeds, but some of them try to push you to subscribe to an email update.</p>\n",
+				"content_text": "Trying to add some academic journal RSS feeds to Feedbin. Most of them have feeds, but some of them try to push you to subscribe to an email update. \n",
+				"date_published": "2023-07-16T16:32:16-04:00",
+				"url": "https://bobwertz.com/2023/07/16/trying-to-add.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/16/went-down-a.html",
+				
+				"content_html": "<p>Went down a rabbit hole and discovered that <a href=\"https://www.popularmechanics.com/science/energy/a42532492/iron-air-battery-energy-storage/\">iron-air batteries are a thing&hellip;</a></p>\n<blockquote>\n<p>Each iron-air battery is about the size of a washer/dryer set and holds 50 iron-air cells, which are then surrounded by an electrolyte (similar to the Duracell in your TV remote). Using a principle called “reverse rusting,” the cells “breathe” in air, which transforms the iron into iron oxide (aka rust) and produces energy. To charge it back up, a current reverses the oxidation and turns the cells back into iron.</p>\n</blockquote>\n<p>&ldquo;Reverse rusting?&rdquo; Weird. Interesting implications for power grid management, though.</p>\n",
+				"content_text": "Went down a rabbit hole and discovered that [iron-air batteries are a thing...](https://www.popularmechanics.com/science/energy/a42532492/iron-air-battery-energy-storage/)\r\n\r\n> Each iron-air battery is about the size of a washer/dryer set and holds 50 iron-air cells, which are then surrounded by an electrolyte (similar to the Duracell in your TV remote). Using a principle called “reverse rusting,” the cells “breathe” in air, which transforms the iron into iron oxide (aka rust) and produces energy. To charge it back up, a current reverses the oxidation and turns the cells back into iron.\r\n\r\n\"Reverse rusting?\" Weird. Interesting implications for power grid management, though.\n",
+				"date_published": "2023-07-16T12:51:52-04:00",
+				"url": "https://bobwertz.com/2023/07/16/went-down-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/16/my-daughter-is.html",
+				
+				"content_html": "<p>My daughter is getting playing around with her new MacBook Air. She&rsquo;s used to her iPhone, and various Chromebooks that she has been given by her school since 6th grade. I&rsquo;m noticing just how differently we use computers.</p>\n",
+				"content_text": "My daughter is getting playing around with her new MacBook Air. She's used to her iPhone, and various Chromebooks that she has been given by her school since 6th grade. I'm noticing just how differently we use computers.\n",
+				"date_published": "2023-07-16T10:07:51-04:00",
+				"url": "https://bobwertz.com/2023/07/16/my-daughter-is.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/16/seth-godin-with.html",
+				
+				"content_html": "<p><a href=\"https://seths.blog/2023/07/without-the-bad-parts/\">Seth Godin</a> with the reminder that you can&rsquo;t always have the good without the bad.</p>\n",
+				"content_text": "[Seth Godin](https://seths.blog/2023/07/without-the-bad-parts/) with the reminder that you can't always have the good without the bad.\n",
+				"date_published": "2023-07-16T09:08:57-04:00",
+				"url": "https://bobwertz.com/2023/07/16/seth-godin-with.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/16/sharing-apple-news.html",
+				"title": "Sharing Apple News Links",
+				"content_html": "<p>I get Apple News+ with my Apple One bundle and I actually use it frequently on my Mac. My local newspaper, The State, in included in News+ and I can read articles that are normally behind a paywall. Once I&rsquo;m there, I tend to find other things to read and share. But sharing Apple News story links on social media isn&rsquo;t always helpful since it obscures the real URL behind a redirect.</p>\n<p>On a Mac, it’s easy to share the original URL. Click the share button in the upper right hand corner of the interface, and choose Safari. It opens the original article on the web and you can then share that URL instead of a link to Apple News.</p>\n<p>On the iPhone, it’s not as simple. Click the ellipses in the upper right and select Share Story. Then from the list of apps that appears, select Safari. (You may need to click More and scroll down to find it.) The result is the same as the Mac, a new Safari window with the original URL.</p>\n<hr>\n<p><!-- raw HTML omitted -->Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.<!-- raw HTML omitted --></p>\n",
+				"content_text": "I get Apple News+ with my Apple One bundle and I actually use it frequently on my Mac. My local newspaper, The State, in included in News+ and I can read articles that are normally behind a paywall. Once I'm there, I tend to find other things to read and share. But sharing Apple News story links on social media isn't always helpful since it obscures the real URL behind a redirect.\n\nOn a Mac, it’s easy to share the original URL. Click the share button in the upper right hand corner of the interface, and choose Safari. It opens the original article on the web and you can then share that URL instead of a link to Apple News.\n\nOn the iPhone, it’s not as simple. Click the ellipses in the upper right and select Share Story. Then from the list of apps that appears, select Safari. (You may need to click More and scroll down to find it.) The result is the same as the Mac, a new Safari window with the original URL.\n\n---\n\n<em>Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.</em>\n",
+				"date_published": "2023-07-16T08:57:43-04:00",
+				"url": "https://bobwertz.com/2023/07/16/sharing-apple-news.html",
+				"tags": ["Long Posts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/15/after-watching-this.html",
+				
+				"content_html": "<p>After watching this week&rsquo;s <em>Strange New Worlds</em>, I went back and watched Amok Time. They&rsquo;ve really done a nice job of building a Spock/T&rsquo;Pring/Chapel backstory that adds depth to The Original Series episode. 🖖</p>\n",
+				"content_text": "After watching this week's _Strange New Worlds_, I went back and watched Amok Time. They've really done a nice job of building a Spock/T'Pring/Chapel backstory that adds depth to The Original Series episode. 🖖\n",
+				"date_published": "2023-07-15T21:42:21-04:00",
+				"url": "https://bobwertz.com/2023/07/15/after-watching-this.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/15/signed-my-oldest.html",
+				
+				"content_html": "<p>Signed my oldest up for her college move-in time. Now headed to the Apple Store to get her a computer. It&rsquo;s getting real.</p>\n",
+				"content_text": "Signed my oldest up for her college move-in time. Now headed to the Apple Store to get her a computer. It's getting real.\n",
+				"date_published": "2023-07-15T12:57:32-04:00",
+				"url": "https://bobwertz.com/2023/07/15/signed-my-oldest.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/14/vampire-cat.html",
+				
+				"content_html": "<p>Vampire cat.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Vampire cat.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/49b7bc4818.jpg\" width=\"600\" height=\"600\" alt=\"Black and white cat yawning, fangs exposed. \">\n",
+				"date_published": "2023-07-14T19:30:49-04:00",
+				"url": "https://bobwertz.com/2023/07/14/vampire-cat.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/13/ive-had-this.html",
+				
+				"content_html": "<p>I&rsquo;ve had this small task hovering over my head for about a week. Finally sat down this morning and knocked it out in about 30 minutes. Someday, I&rsquo;ll learn to just make some time each day to knock out the small stuff.</p>\n",
+				"content_text": "I've had this small task hovering over my head for about a week. Finally sat down this morning and knocked it out in about 30 minutes. Someday, I'll learn to just make some time each day to knock out the small stuff.\n",
+				"date_published": "2023-07-13T08:36:26-04:00",
+				"url": "https://bobwertz.com/2023/07/13/ive-had-this.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/13/insomnia-is-kicking.html",
+				
+				"content_html": "<p>Insomnia is kicking my ass tonight. Tomorrow is going to be a long day.</p>\n",
+				"content_text": "Insomnia is kicking my ass tonight. Tomorrow is going to be a long day.\n",
+				"date_published": "2023-07-13T04:02:03-04:00",
+				"url": "https://bobwertz.com/2023/07/13/insomnia-is-kicking.html",
 				"tags": ["Quick Thoughts"]
 			},
 			{
@@ -316,7 +406,7 @@
 				"id": "http://bobwertz.micro.blog/2023/05/31/our-oldest-graduated.html",
 				
 				"content_html": "<p>Our oldest graduated from high school today. Next stop, studying English at the University of South Carolina.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our oldest graduated from high school today. Next stop, studying English at the University of South Carolina. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/343cfdff77.jpg\" width=\"450\" height=\"600\" alt=\"Happy high school graduate \">\n",
+				"content_text": "Our oldest graduated from high school today. Next stop, studying English at the University of South Carolina. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/343cfdff77-medium.png\" width=\"480\" height=\"640\" alt=\"Happy high school graduate\">\n",
 				"date_published": "2023-05-31T15:01:59-04:00",
 				"url": "https://bobwertz.com/2023/05/31/our-oldest-graduated.html",
 				"tags": ["Quick Thoughts"]
