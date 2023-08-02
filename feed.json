@@ -7,6 +7,78 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/08/02/thanks-to-the.html",
+				
+				"content_html": "<p>Thanks to the Barbie movie, my girls have discovered the Indigo Girls. I love it.</p>\n",
+				"content_text": "Thanks to the Barbie movie, my girls have discovered the Indigo Girls. I love it. \n",
+				"date_published": "2023-08-02T18:43:07-04:00",
+				"url": "https://bobwertz.com/2023/08/02/thanks-to-the.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/31/my-daughter-just.html",
+				
+				"content_html": "<p>My daughter just declared that her favorite font is Times New Roman, and I can&rsquo;t think of a bigger sign that the kid is destined to be an academic.</p>\n",
+				"content_text": "My daughter just declared that her favorite font is Times New Roman, and I can't think of a bigger sign that the kid is destined to be an academic.\n",
+				"date_published": "2023-07-31T22:05:29-04:00",
+				"url": "https://bobwertz.com/2023/07/31/my-daughter-just.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/31/im-at-a.html",
+				
+				"content_html": "<p>I’m at a local coffee shop that’s normally packed with college students. But students aren’t back in town yet. Completely different clientele. It’s funny how a college town changes when school isn’t in session.</p>\n",
+				"content_text": "I’m at a local coffee shop that’s normally packed with college students. But students aren’t back in town yet. Completely different clientele. It’s funny how a college town changes when school isn’t in session. \n",
+				"date_published": "2023-07-31T08:37:39-04:00",
+				"url": "https://bobwertz.com/2023/07/31/im-at-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/30/my-academic-research.html",
+				
+				"content_html": "<p>My academic research is primarily in branding and visual communication, but I&rsquo;m discovering that as a media scholar today, part of my research always overlaps with social media in some way.</p>\n",
+				"content_text": "My academic research is primarily in branding and visual communication, but I'm discovering that as a media scholar today, part of my research always overlaps with social media in some way.\n",
+				"date_published": "2023-07-30T19:27:40-04:00",
+				"url": "https://bobwertz.com/2023/07/30/my-academic-research.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/30/spent-my-morning.html",
+				
+				"content_html": "<p>Spent my morning working on some typeface designs in Glyphs. I really enjoy working with fonts, and I have several designs that I&rsquo;ve started and not finished. I need to prioritize creative time &ndash; not just writing, but also sketching and type design.</p>\n",
+				"content_text": "Spent my morning working on some typeface designs in Glyphs. I really enjoy working with fonts, and I have several designs that I've started and not finished. I need to prioritize creative time -- not just writing, but also sketching and type design.\n",
+				"date_published": "2023-07-30T11:10:25-04:00",
+				"url": "https://bobwertz.com/2023/07/30/spent-my-morning.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/30/threads-as-a.html",
+				"title": "Threads as a \"federated\" brand solution",
+				"content_html": "<p>When the exodus from Twitter first started last year, many tech-savvy people were moving to Mastodon and <a href=\"https://bobwertz.com/2022/12/01/brands-federated.html\">I wondered if brands would move their accounts to self hosted instances.</a> After all, from a branding standpoint, @offical@starbucks.com is better than @starbucks@mastodon.social. At the end of that post, I posited that someone would come along with a service that handled the fediverse complexity for companies.</p>\n<p>That service is Threads.</p>\n<p>Lots of people have asked why Meta was interested in providing ActivityPub support. I honestly think part of the story is so Meta can tell brands &ndash; their advertisers &ndash; that they can just publish on Threads and it will eventually be accessible on any other non-Twitter platform. Of course, they&rsquo;ve still got to deliver on that promise&hellip; right now Threads doesn&rsquo;t have ActivityPub support.</p>\n<p>So far, branded accounts have flocked to Threads. If @BRAND-NAME@threads.com becomes the default for official branded social content, Meta benefits. I still think companies would be better off owning their instance with a branded domain, and maybe we will get there some day, but for now, it looks like Threads is where the brands are headed.</p>\n<p>(I think that eventually, Meta will offer an upgraded &ldquo;brand tier&rdquo; that allows companies to use their own domain instead of <a href=\"http://threads.com\">@threads.com</a>. for a substanial fee, of course.)</p>\n<hr>\n<p><!-- raw HTML omitted -->Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.<!-- raw HTML omitted --></p>\n",
+				"content_text": "When the exodus from Twitter first started last year, many tech-savvy people were moving to Mastodon and [I wondered if brands would move their accounts to self hosted instances.](https://bobwertz.com/2022/12/01/brands-federated.html) After all, from a branding standpoint, @offical@starbucks.com is better than @starbucks@mastodon.social. At the end of that post, I posited that someone would come along with a service that handled the fediverse complexity for companies.\n\nThat service is Threads.\n\nLots of people have asked why Meta was interested in providing ActivityPub support. I honestly think part of the story is so Meta can tell brands -- their advertisers -- that they can just publish on Threads and it will eventually be accessible on any other non-Twitter platform. Of course, they've still got to deliver on that promise... right now Threads doesn't have ActivityPub support.\n\nSo far, branded accounts have flocked to Threads. If @BRAND-NAME@threads.com becomes the default for official branded social content, Meta benefits. I still think companies would be better off owning their instance with a branded domain, and maybe we will get there some day, but for now, it looks like Threads is where the brands are headed.\n\n(I think that eventually, Meta will offer an upgraded \"brand tier\" that allows companies to use their own domain instead of [@threads.com](http://threads.com). for a substanial fee, of course.)\n\n---\n\n<em>Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.</em>\n",
+				"date_published": "2023-07-30T09:03:26-04:00",
+				"url": "https://bobwertz.com/2023/07/30/threads-as-a.html",
+				"tags": ["Long Posts","Social"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/30/the-university-of.html",
+				
+				"content_html": "<p>The University of Georgia School of Journalism took over a community newspaper that was about to go out of business in nearby Oglethorpe and started running it with students. <a href=\"https://www.niemanlab.org/2023/07/what-one-journalism-school-learned-after-taking-over-a-rural-weekly-newspaper/\">This reflection digs into what has worked, what hasn&rsquo;t and what smaller communities want as news&hellip;</a></p>\n",
+				"content_text": "The University of Georgia School of Journalism took over a community newspaper that was about to go out of business in nearby Oglethorpe and started running it with students. [This reflection digs into what has worked, what hasn't and what smaller communities want as news...](https://www.niemanlab.org/2023/07/what-one-journalism-school-learned-after-taking-over-a-rural-weekly-newspaper/)\n",
+				"date_published": "2023-07-30T08:22:32-04:00",
+				"url": "https://bobwertz.com/2023/07/30/the-university-of.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/07/29/finally-got-around.html",
+				
+				"content_html": "<p>Finally got around to adding a <a href=\"https://bobwertz.com/fonts/\">fonts page</a> to my Micro.Blog site.</p>\n",
+				"content_text": "Finally got around to adding a [fonts page](https://bobwertz.com/fonts/) to my Micro.Blog site.\n",
+				"date_published": "2023-07-29T21:26:31-04:00",
+				"url": "https://bobwertz.com/2023/07/29/finally-got-around.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/07/26/ive-been-reading.html",
 				
 				"content_html": "<p>I&rsquo;ve been reading the coverage of the Twitter rebranding and the most interesting framing is related to <a href=\"https://www.theverge.com/2023/7/26/23809087/elon-musk-x-logo-twitter-trademark\">legal issues.</a> It&rsquo;s not an issue typically covered when a company rebrands&hellip; but it&rsquo;s not a typical rebranding.</p>\n",
@@ -49,7 +121,7 @@
 				"content_text": "### I’ve been preparing for Twitter’s demise for seven years, but I didn’t see ‘X’ coming.\n\n\n<img src=\"uploads/2023/sbb-twitterless-2.png\" alt=\"Twitter bird with Xs in the eyes.\" title=\"sbb_twitterless 2.png\" border=\"0\" width=\"600\" height=\"300\" />\n\nI’ve been preparing for the end of Twitter since 2016, when Twitter was struggling with some financial issues and the future was uncertain. I pondered what would happen of Twitter went away suddenly.\n\n[2016: Twitterless:](https://www.sketchbookb.com/journal/2016/11/9/twitterless?rq=twitterless)\n\n> Which got me thinking, what if we woke up one morning and Twitter was gone. Or more likely, what if Twitter changed so radically, that it was unusable?\n\n> I’m more concerned that Twitter, or a company that buys Twitter, will change it so completely, that it becomes useless.\n\nFast forward a little over a year later. Twitter’s financial issues were less dire, but they were struggling with flat user growth, coupled with a rise in abuse and hate on the platform.\n\n[2018: Twitterless, Part II:](https://www.sketchbookb.com/journal/2018/1/3/twitterless-part-ii?rq=twitterless)[^1]\n\n> As Twitter tries to jumpstart the service, I still believe the likelihood of Twitter imploding within the next few years is high.\n\nWhen Elon Musk bought Twitter, I assumed he’d shake things up, but I was concerned about the direction he would take Twitter in. I wrote a third Twitterless post to recap the changes that I’d made to deal with the hypothetical demise of Twitter.\n\n[2022: Twitterless, Part III:](https://bobwertz.com/2022/11/07/twitterless-part-iii.html)\n\n> If Twitter ceases to be enjoyable, I’ll leave. To be honest, I’ll miss it. I joined in 2008 and 14 years is a long time to use any service. It’s part of my daily routine. At the end of the day, though, if a service isn’t making my life better, I’m better off without it.\n\nOnce Twitter abruptly cut off third party clients, my Twitter usage dropped dramatically. I was a Twitteriffic user for over a decade, and it was obvious from the way he handled that situation that Elon Musk’s Twitter wasn’t going to be what I wanted. I moved on.[^2]\n\nNow, he’s changing the name of Twitter to X. I always assumed that someone would buy Twitter for the brand equity and change the service to make it more profitable. Instead, Musk changed the service _and_ destroyed an iconic brand, all while making it _less_ profitable. \n\nI am going to miss Twitter. I’ve mostly enjoyed it over the years. I care enough about my own tweet history, that earlier this year, [when Manton offered a way to import all of my Twitter history,](https://www.manton.org/2023/04/11/importing-tweets-to.html) I moved 15 years worth of tweets into [a searchable database hosted here on Micro.Blog.](https://bobwertz.com/tweets/) I don’t know what I’ll use it for, but I do like having it.\n\nI feel like I’ve prepared adequately for the Twitter apocalypse, but there is one area in particular where the loss of Twitter will still hurt. A common thread through all three Twitterless posts was a lament that there aren’t other services optimized for following breaking news or live events. This is still true. Maybe Threads,[^3] Bluesky or Mastodon can step in, but until then, I’ll miss Twitter most when watching a sporting event, an Apple keynote or following a local news story. For the last few months, I’ve been viewing Twitter to check in during big events, but the time has come to move on.\n\nTwitter is finally dead.\n\n---\n\n<em>Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.</em>\n\n\n\n[^1]: The illustration at the top is the one that accompanied the 2018 post.\n\n[^2]: RIP Twitteriffic\n\n[^3]: It will be tough without a chronological timeline, though.\n\n",
 				"date_published": "2023-07-25T13:26:52-04:00",
 				"url": "https://bobwertz.com/2023/07/25/twitterless-the-final.html",
-				"tags": ["Long Posts"]
+				"tags": ["Long Posts","Social"]
 			},
 			{
 				"id": "http://bobwertz.micro.blog/2023/07/24/roadtrip-to-charleston.html",
@@ -73,7 +145,7 @@
 				"id": "http://bobwertz.micro.blog/2023/07/24/back-in-i.html",
 				
 				"content_html": "<p>Back in 2018, I wrote a second blog post about <a href=\"https://www.sketchbookb.com/journal/2018/1/3/twitterless-part-ii\">preparing for the sudden demise of Twitter.</a> The illustration I did for the post seems appropriate to reshare today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back in 2018, I wrote a second blog post about [preparing for the sudden demise of Twitter.](https://www.sketchbookb.com/journal/2018/1/3/twitterless-part-ii) The illustration I did for the post seems appropriate to reshare today. \n\n<img src=\"uploads/2023/1de6993199.png\" width=\"600\" height=\"300\" alt=\"“Twitter” bird with Xs in eyes. \">\n",
+				"content_text": "Back in 2018, I wrote a second blog post about [preparing for the sudden demise of Twitter.](https://www.sketchbookb.com/journal/2018/1/3/twitterless-part-ii) The illustration I did for the post seems appropriate to reshare today. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/1de6993199.png\" width=\"600\" height=\"300\" alt=\"“Twitter” bird with Xs in eyes. \">\n",
 				"date_published": "2023-07-24T08:52:29-04:00",
 				"url": "https://bobwertz.com/2023/07/24/back-in-i.html",
 				"tags": ["Quick Thoughts"]
@@ -94,7 +166,7 @@
 				"content_text": "### New social media outlets prove the viability of indie social.\n\nThe invention of the printing press made mass media possible. Printing houses produced popular books and bibles, but they also spread the writing that powered the Reformation. Major newspapers became was the dominant media for decades, but there have always been community and independent newspapers. Self-publishing, indie music, art house films and college radio are all forms of independent media. \n\nEconomy of scale[^1] pushes these systems toward consolidation. But as these media outlets consolidate into a few major players, there is always a market for an alternative. Why should social media be any different?\n\nWhen the internet became popular, personal sites and blogs were the ultimate form of independent media. Economy of scale kicked in like it always does. Large news sites dominate and Google Search drives the traffic to the largest most well established sites.[^2] Blogs became less popular, but there are still many independent blogs and personal sites around the internet.\n\nWith social media, consolidation drove us to a handful of sites. Facebook, Instagram, Twitter, LinkedIn, TikTok and Snapchat. The funding model drove this as well… Venture capital investment bet on the next big social media winner, and sites either made it big, or disappeared. (RIP: Path, Vine, Periscope, Gowalla, Google+, Google Wave.) I wasn’t sure there was space for independent social media.\n\nAll of the attention right now is on Meta’s Threads and the cage match with Twitter, but there’s a lot more going on in the space. Elon’s purchase and erosion of Twitter[^3] has opened the doors to alternatives. ActivityPub is starting to take root that will allow some interoperability between sites. I’ve been a Micro.Blog subscriber for years and it’s a wonderful independent social space.[^4] Mastodon and Bluesky are both putting forward their visions for an open web. And users are adapting Discord and other sites to create smaller, independent communities.\n\nThese sites now have a large enough user base to stick around, and technical solutions like ActivityPub allow easy access to creators on other networks. The businesses aren’t (currently) poisoned by the venture capital desire to grow fast and get rich. This is how a healthy independent social media ecosystem develops. \n\n---\n\n<em>Bob Wertz is a creative director, type designer, Ph.D. student and researcher living in Columbia, South Carolina.</em>\n\n[^1]: The idea that businesses become more efficient as they get larger.\n\n[^2]: Or the ones that have loaded their sites with SEO friendly keywords.\n\n[^3]: Or is it X?\n\n[^4]: And blogging platform.\n",
 				"date_published": "2023-07-23T11:37:51-04:00",
 				"url": "https://bobwertz.com/2023/07/23/weve-always-had.html",
-				"tags": ["Long Posts"]
+				"tags": ["Long Posts","Social"]
 			},
 			{
 				"id": "http://bobwertz.micro.blog/2023/07/22/i-dont-know.html",
