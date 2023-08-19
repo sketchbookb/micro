@@ -7,6 +7,87 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/08/19/dropped-my-oldest.html",
+				
+				"content_html": "<p>Dropped my oldest off at college today. She is living in the same building that my wife lived in her freshman year. She’s only 20 minutes away from our house, and my office is 6 blocks away, but it’s still a big change for Team Wertz.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dropped my oldest off at college today. She is living in the same building that my wife lived in her freshman year. She’s only 20 minutes away from our house, and my office is 6 blocks away, but it’s still a big change for Team Wertz.\n\n<img src=\"uploads/2023/777f78636a.jpg\" width=\"600\" height=\"600\" alt=\"Our college freshman is moved into her residence hall. \">\n",
+				"date_published": "2023-08-19T17:37:10-04:00",
+				"url": "https://bobwertz.com/2023/08/19/dropped-my-oldest.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/16/with-the-start.html",
+				
+				"content_html": "<p>With the start of school, my wife&rsquo;s sleep schedule has changed radically. She goes to bed much earlier because she wakes up much earlier. The result is that I&rsquo;m going to bed earlier, too, but waking up at 1 am. Not fun. I&rsquo;ll get used to the new schedule, but it will take a couple of weeks.</p>\n",
+				"content_text": "With the start of school, my wife's sleep schedule has changed radically. She goes to bed much earlier because she wakes up much earlier. The result is that I'm going to bed earlier, too, but waking up at 1 am. Not fun. I'll get used to the new schedule, but it will take a couple of weeks.\n",
+				"date_published": "2023-08-16T07:06:31-04:00",
+				"url": "https://bobwertz.com/2023/08/16/with-the-start.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/15/just-discovered-that.html",
+				
+				"content_html": "<p>Just discovered that the Apple TV MLB app lets you stream minor league games if you have MLB AtBat. (AtBat is the radio broadcast streaming MLB product which is much cheaper than MLB.TV.) Currently watching the Cub&rsquo;s Low A Affiliate Myrtle Beach Pelicans play our local Columbia Fireflies.</p>\n",
+				"content_text": "Just discovered that the Apple TV MLB app lets you stream minor league games if you have MLB AtBat. (AtBat is the radio broadcast streaming MLB product which is much cheaper than MLB.TV.) Currently watching the Cub's Low A Affiliate Myrtle Beach Pelicans play our local Columbia Fireflies. \n",
+				"date_published": "2023-08-15T20:23:56-04:00",
+				"url": "https://bobwertz.com/2023/08/15/just-discovered-that.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/13/the-clean-energy.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>What&rsquo;s driving new growth in renewable energy? It&rsquo;s not saving the environment. It&rsquo;s saving money.</p>\n",
+				"content_text": "<p><a href=\"https://www.nytimes.com/interactive/2023/08/12/climate/clean-energy-us-fossil-fuels.html\">The Clean Energy Future Is Arriving Faster Than You Think - The New York Times</a>:</p>\n\n<blockquote>Today, solar and wind power are the least expensive new sources of electricity in many markets, generating 12 percent of global electricity and rising. This year, for the first time, global investors are expected to pour more money into solar power — some $380 billion — than into drilling for oil.</blockquote>\n\nWhat's driving new growth in renewable energy? It's not saving the environment. It's saving money.\n",
+				"date_published": "2023-08-13T22:49:19-04:00",
+				"url": "https://bobwertz.com/2023/08/13/the-clean-energy.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/13/finally-got-around.html",
+				
+				"content_html": "<p>Finally got around to watching the season finale of Strange New Worlds. What a great season with an intense ending. Ready for season 3&hellip; which won&rsquo;t be coming for a while. 🖖</p>\n",
+				"content_text": "Finally got around to watching the season finale of Strange New Worlds. What a great season with an intense ending. Ready for season 3... which won't be coming for a while. 🖖\n",
+				"date_published": "2023-08-13T18:36:36-04:00",
+				"url": "https://bobwertz.com/2023/08/13/finally-got-around.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/13/rewatching-alias-on.html",
+				
+				"content_html": "<p>Rewatching  <em>Alias</em> on Disney+. I forgot how engaging season one was. The cliffhangers at the end of each episode. The rapid pacing. The costumes. The Rambaldi mystery. The twists and turns. So much fun.</p>\n<p>I know the plot gets messy as the seasons add up, but I’m enjoying these early episodes.</p>\n",
+				"content_text": "Rewatching  _Alias_ on Disney+. I forgot how engaging season one was. The cliffhangers at the end of each episode. The rapid pacing. The costumes. The Rambaldi mystery. The twists and turns. So much fun.\n\nI know the plot gets messy as the seasons add up, but I’m enjoying these early episodes. \n",
+				"date_published": "2023-08-13T12:52:01-04:00",
+				"url": "https://bobwertz.com/2023/08/13/rewatching-alias-on.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/11/the-only-barnes.html",
+				
+				"content_html": "<p>The only Barnes and Noble in town is one of the last tenants in a dilapidated mall that is about to be redeveloped. I was nervous that they would just close the store, but <a href=\"https://apple.news/Af6nQIO5SQr2xdvEAqlOgrw\">they announced that they are moving to a new location.</a> Good news.</p>\n",
+				"content_text": "The only Barnes and Noble in town is one of the last tenants in a dilapidated mall that is about to be redeveloped. I was nervous that they would just close the store, but [they announced that they are moving to a new location.](https://apple.news/Af6nQIO5SQr2xdvEAqlOgrw) Good news. \n",
+				"date_published": "2023-08-11T07:15:37-04:00",
+				"url": "https://bobwertz.com/2023/08/11/the-only-barnes.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/10/this-article-makes.html",
+				
+				"content_html": "<p>This article makes me want to use periods even more. <a href=\"https://www.nytimes.com/2021/06/29/crosswords/texting-punctuation-period.html?smid=threads-nytimes\">No More Periods in Texting. Period. - The New York Times</a></p>\n",
+				"content_text": "This article makes me want to use periods even more. [No More Periods in Texting. Period. - The New York Times](https://www.nytimes.com/2021/06/29/crosswords/texting-punctuation-period.html?smid=threads-nytimes)\n",
+				"date_published": "2023-08-10T18:31:25-04:00",
+				"url": "https://bobwertz.com/2023/08/10/this-article-makes.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/09/it-seems-to.html",
+				
+				"content_html": "<p>It seems to me that fewer people are posting on social media, but the people that are posting are posting more frequently. Could just be algorithm changes favor the heavy posters. Could just be the people I follow. But I think heavy social media users are worried about losing their audience and so they are posting more in a bid to stay relevant.</p>\n",
+				"content_text": "It seems to me that fewer people are posting on social media, but the people that are posting are posting more frequently. Could just be algorithm changes favor the heavy posters. Could just be the people I follow. But I think heavy social media users are worried about losing their audience and so they are posting more in a bid to stay relevant.\n",
+				"date_published": "2023-08-09T07:51:22-04:00",
+				"url": "https://bobwertz.com/2023/08/09/it-seems-to.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/08/07/picking-out-my.html",
 				
 				"content_html": "<p>Picking out my pens and pencils for the Fall semester.</p>\n",
