@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/09/02/i-realized-a.html",
+				
+				"content_html": "<p>I realized a long time ago that watching South Carolina play football on TV just stresses me out. So I’ll follow along with the game against UNC on the ESPN website. I’ll be happy if they win. And I’ll be less frustrated if the lose.</p>\n",
+				"content_text": "I realized a long time ago that watching South Carolina play football on TV just stresses me out. So I’ll follow along with the game against UNC on the ESPN website. I’ll be happy if they win. And I’ll be less frustrated if the lose. \n",
+				"date_published": "2023-09-02T19:12:51-04:00",
+				"url": "https://bobwertz.com/2023/09/02/i-realized-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/27/the-wifi-at.html",
+				
+				"content_html": "<p>The wifi at my daughter&rsquo;s dorm room is slow and she has a hybrid class that starts this week. I dropped off an ethernet cable and a USB-C adapter today and now her internet incredibly fast. Wifi is convenient, but ethernet is fast and reliable.</p>\n",
+				"content_text": "The wifi at my daughter's dorm room is slow and she has a hybrid class that starts this week. I dropped off an ethernet cable and a USB-C adapter today and now her internet incredibly fast. Wifi is convenient, but ethernet is fast and reliable.\n",
+				"date_published": "2023-08-27T17:12:18-04:00",
+				"url": "https://bobwertz.com/2023/08/27/the-wifi-at.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/26/saw-these-flowers.html",
+				
+				"content_html": "<p>Saw these flowers outside of a restaurant this evening.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Saw these flowers outside of a restaurant this evening. \n\n<img src=\"uploads/2023/0ca1b153c6.jpg\" width=\"600\" height=\"599\" alt=\"Four yellow flowers surrounded by green leaves. \">\n",
+				"date_published": "2023-08-26T20:31:27-04:00",
+				"url": "https://bobwertz.com/2023/08/26/saw-these-flowers.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/08/24/i-had-a.html",
+				
+				"content_html": "<p>I had a great view of campus today. From the 8th floor, you can really see how many trees are all over the University of South Carolina campus.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I had a great view of campus today. From the 8th floor, you can really see how many trees are all over the University of South Carolina campus.\n\n<img src=\"uploads/2023/img-9677-edited.jpg\" width=\"600\" height=\"600\" alt=\"View of the University of South Carolina campus from the 8th floor of the Close-Hipp building\">\n",
+				"date_published": "2023-08-24T22:01:25-04:00",
+				"url": "https://bobwertz.com/2023/08/24/i-had-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/08/22/i-follow-a.html",
 				
 				"content_html": "<p>I follow a handful of Mastodon accounts here on Micro.Blog. Every so often, I notice them replying to some controversy swirling around Mastodon. Or arguing with a particularly rude commenter. I&rsquo;m glad I can follow Mastodon accounts on Micro.Blog, because I don&rsquo;t think I&rsquo;d enjoy Mastodon.</p>\n",
