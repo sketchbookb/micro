@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/09/14/as-a-designer.html",
+				
+				"content_html": "<p>As a designer who is also a Ph.D. student, I don&rsquo;t understand why all diagrams in academic journals are poorly crafted.</p>\n",
+				"content_text": "As a designer who is also a Ph.D. student, I don't understand why all diagrams in academic journals are poorly crafted.\n",
+				"date_published": "2023-09-14T20:31:13-04:00",
+				"url": "https://bobwertz.com/2023/09/14/as-a-designer.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/09/05/reading-back-through.html",
+				
+				"content_html": "<p>Reading back through some journal articles for class from 2001 about the potential of the internet to shape public relations. It&rsquo;s a flashback to a moment after the popularization of the web, but before social media. A very different world. (I miss that world.)</p>\n",
+				"content_text": "Reading back through some journal articles for class from 2001 about the potential of the internet to shape public relations. It's a flashback to a moment after the popularization of the web, but before social media. A very different world. (I miss that world.)\n",
+				"date_published": "2023-09-05T21:56:30-04:00",
+				"url": "https://bobwertz.com/2023/09/05/reading-back-through.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/09/05/got-to-film.html",
+				
+				"content_html": "<p>Got to film in the South Caroliniana Library on campus today. Hadn&rsquo;t been in since the renovation started in 2015. Designed by Robert Mills in 1840, South Caroliniana is the <a href=\"https://www.historiccolumbia.org/tour-locations/910-sumter-street\">oldest freestanding college library in the United States.</a> The renovation/restoration is phenomenal.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Got to film in the South Caroliniana Library on campus today. Hadn't been in since the renovation started in 2015. Designed by Robert Mills in 1840, South Caroliniana is the [oldest freestanding college library in the United States.](https://www.historiccolumbia.org/tour-locations/910-sumter-street) The renovation/restoration is phenomenal.\n\n<img src=\"uploads/2023/img-9702-edited.jpg\" width=\"600\" height=\"600\" alt=\"Stairwell at South Caroliniana Library on the campus of the University of South Carolina\">\n",
+				"date_published": "2023-09-05T17:55:01-04:00",
+				"url": "https://bobwertz.com/2023/09/05/got-to-film.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/09/04/sports-talk-radio.html",
+				
+				"content_html": "<p>Sports talk radio all over South Carolina is going to be a dumpster fire tomorrow.</p>\n",
+				"content_text": "Sports talk radio all over South Carolina is going to be a dumpster fire tomorrow.\n",
+				"date_published": "2023-09-04T23:12:00-04:00",
+				"url": "https://bobwertz.com/2023/09/04/sports-talk-radio.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/09/04/rewatching-the-first.html",
+				
+				"content_html": "<p>Rewatching the first few episodes of Ahsoka again. Thrilled to see the Star Wars Rebels storyline continuing.</p>\n",
+				"content_text": "Rewatching the first few episodes of Ahsoka again. Thrilled to see the Star Wars Rebels storyline continuing.\n",
+				"date_published": "2023-09-04T18:06:30-04:00",
+				"url": "https://bobwertz.com/2023/09/04/rewatching-the-first.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/09/04/today-is-a.html",
+				
+				"content_html": "<p>Today is a holiday, but my daughter needed to study and I had some grad school work to do so we headed out to Starbucks. This was the only coffee shop near my house when I started grad school and I was here for long hours most weekends. It was open late and was seemingly always filled with other grad students. After COVID shut everything down, several new coffee shops opened up including two very close to my house. I don&rsquo;t visit &ldquo;Grad School Starbucks&rdquo; very often these days, but it&rsquo;s funny how a space can hold so many memories&hellip;</p>\n",
+				"content_text": "Today is a holiday, but my daughter needed to study and I had some grad school work to do so we headed out to Starbucks. This was the only coffee shop near my house when I started grad school and I was here for long hours most weekends. It was open late and was seemingly always filled with other grad students. After COVID shut everything down, several new coffee shops opened up including two very close to my house. I don't visit \"Grad School Starbucks\" very often these days, but it's funny how a space can hold so many memories...\n",
+				"date_published": "2023-09-04T11:40:28-04:00",
+				"url": "https://bobwertz.com/2023/09/04/today-is-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/09/02/i-realized-a.html",
 				
 				"content_html": "<p>I realized a long time ago that watching South Carolina play football on TV just stresses me out. So I’ll follow along with the game against UNC on the ESPN website. I’ll be happy if they win. And I’ll be less frustrated if the lose.</p>\n",
@@ -28,7 +82,7 @@
 				"id": "http://bobwertz.micro.blog/2023/08/26/saw-these-flowers.html",
 				
 				"content_html": "<p>Saw these flowers outside of a restaurant this evening.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Saw these flowers outside of a restaurant this evening. \n\n<img src=\"uploads/2023/0ca1b153c6.jpg\" width=\"600\" height=\"599\" alt=\"Four yellow flowers surrounded by green leaves. \">\n",
+				"content_text": "Saw these flowers outside of a restaurant this evening. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/0ca1b153c6.jpg\" width=\"600\" height=\"599\" alt=\"Four yellow flowers surrounded by green leaves. \">\n",
 				"date_published": "2023-08-26T20:31:27-04:00",
 				"url": "https://bobwertz.com/2023/08/26/saw-these-flowers.html",
 				"tags": ["Quick Thoughts"]
@@ -37,7 +91,7 @@
 				"id": "http://bobwertz.micro.blog/2023/08/24/i-had-a.html",
 				
 				"content_html": "<p>I had a great view of campus today. From the 8th floor, you can really see how many trees are all over the University of South Carolina campus.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I had a great view of campus today. From the 8th floor, you can really see how many trees are all over the University of South Carolina campus.\n\n<img src=\"uploads/2023/img-9677-edited.jpg\" width=\"600\" height=\"600\" alt=\"View of the University of South Carolina campus from the 8th floor of the Close-Hipp building\">\n",
+				"content_text": "I had a great view of campus today. From the 8th floor, you can really see how many trees are all over the University of South Carolina campus.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/img-9677-edited.jpg\" width=\"600\" height=\"600\" alt=\"View of the University of South Carolina campus from the 8th floor of the Close-Hipp building\">\n",
 				"date_published": "2023-08-24T22:01:25-04:00",
 				"url": "https://bobwertz.com/2023/08/24/i-had-a.html",
 				"tags": ["Quick Thoughts"]
@@ -73,7 +127,7 @@
 				"id": "http://bobwertz.micro.blog/2023/08/19/dropped-my-oldest.html",
 				
 				"content_html": "<p>Dropped my oldest off at college today. She is living in the same building that my wife lived in her freshman year. She’s only 20 minutes away from our house, and my office is 6 blocks away, but it’s still a big change for Team Wertz.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dropped my oldest off at college today. She is living in the same building that my wife lived in her freshman year. She’s only 20 minutes away from our house, and my office is 6 blocks away, but it’s still a big change for Team Wertz.\n\n<img src=\"uploads/2023/777f78636a.jpg\" width=\"600\" height=\"600\" alt=\"Our college freshman is moved into her residence hall. \">\n",
+				"content_text": "Dropped my oldest off at college today. She is living in the same building that my wife lived in her freshman year. She’s only 20 minutes away from our house, and my office is 6 blocks away, but it’s still a big change for Team Wertz.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2023/777f78636a.jpg\" width=\"600\" height=\"600\" alt=\"Our college freshman is moved into her residence hall. \">\n",
 				"date_published": "2023-08-19T17:37:10-04:00",
 				"url": "https://bobwertz.com/2023/08/19/dropped-my-oldest.html",
 				"tags": ["Quick Thoughts"]
