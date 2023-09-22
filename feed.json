@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2023/09/22/overheard-at-a.html",
+				
+				"content_html": "<p>Overheard at a grad school symposium:</p>\n<blockquote>\n<p>“I mean, we’re grad students. We should geek about our research.”</p>\n</blockquote>\n",
+				"content_text": "Overheard at a grad school symposium:\n\n> “I mean, we’re grad students. We should geek about our research.”\n",
+				"date_published": "2023-09-22T13:59:23-04:00",
+				"url": "https://bobwertz.com/2023/09/22/overheard-at-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2023/09/15/loved-this-story.html",
+				
+				"content_html": "<p><a href=\"https://www.washingtonpost.com/parenting/interactive/2023/lego-bricks-colors-history/?itid=hp_ts-1-sallys-mix_p001_f006\">Loved this story on the Washington Post</a> about the evolving color palette of Lego bricks.</p>\n",
+				"content_text": "[Loved this story on the Washington Post](https://www.washingtonpost.com/parenting/interactive/2023/lego-bricks-colors-history/?itid=hp_ts-1-sallys-mix_p001_f006) about the evolving color palette of Lego bricks.\n",
+				"date_published": "2023-09-15T07:27:42-04:00",
+				"url": "https://bobwertz.com/2023/09/15/loved-this-story.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2023/09/14/as-a-designer.html",
 				
 				"content_html": "<p>As a designer who is also a Ph.D. student, I don&rsquo;t understand why all diagrams in academic journals are poorly crafted.</p>\n",
