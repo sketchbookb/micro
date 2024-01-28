@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2024/01/28/we-asked-ai.html",
+				
+				"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-openai-microsoft-midjourney-copyright.html\">We Asked A.I. to Create the Joker. It Generated a Copyrighted Image. - The New York Times</a></p>\n<p>I don’t have an issue with the concept of AI, but especially with imagery, how you train the model matters. The most popular generative systems were trained on copyrighted material and that’s a problem.</p>\n",
+				"content_text": "[We Asked A.I. to Create the Joker. It Generated a Copyrighted Image. - The New York Times](https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-openai-microsoft-midjourney-copyright.html)\n\nI don’t have an issue with the concept of AI, but especially with imagery, how you train the model matters. The most popular generative systems were trained on copyrighted material and that’s a problem. \n",
+				"date_published": "2024-01-28T08:39:30-05:00",
+				"url": "https://bobwertz.com/2024/01/28/we-asked-ai.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/01/25/a-good-week.html",
+				
+				"content_html": "<p>A good week for South Carolina basketball. The men beat Kentucky. The women beat LSU on the road to remain unbeaten. 🏀</p>\n",
+				"content_text": "A good week for South Carolina basketball. The men beat Kentucky. The women beat LSU on the road to remain unbeaten. 🏀\n",
+				"date_published": "2024-01-25T22:45:25-05:00",
+				"url": "https://bobwertz.com/2024/01/25/a-good-week.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/01/24/more-than-years.html",
+				
+				"content_html": "<p>More than 30 years ago, I used a Mac for the first time in high school and was instantly hooked. I finally saved up enough money to purchase my first Mac my sophomore year in college. A Power Mac 7500 that I used for a very long time until I bought an iMac. Happy birthday, Macintosh.</p>\n",
+				"content_text": "More than 30 years ago, I used a Mac for the first time in high school and was instantly hooked. I finally saved up enough money to purchase my first Mac my sophomore year in college. A Power Mac 7500 that I used for a very long time until I bought an iMac. Happy birthday, Macintosh.\n",
+				"date_published": "2024-01-24T19:10:29-05:00",
+				"url": "https://bobwertz.com/2024/01/24/more-than-years.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2024/01/23/so-im-working.html",
 				
 				"content_html": "<p>So I&rsquo;m working my full-time job, taking a class and teaching a lecture class this semester. I&rsquo;ve got a pretty good plan for managing my time, but every so often, I wake up at 1:30 with an idea in my head and end up working for a couple of hours in the middle of the night.</p>\n",
