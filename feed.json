@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2024/02/03/so-happy-that.html",
+				
+				"content_html": "<p>So happy that Project Tapestry is funded. Congrats to <a href=\"https://micro.blog/Iconfactory@iconfactory.world\">@Iconfactory@iconfactory.world</a> and let&rsquo;s keep going until we reach the stretch goal!</p>\n",
+				"content_text": "So happy that Project Tapestry is funded. Congrats to [@Iconfactory@iconfactory.world](https://micro.blog/Iconfactory@iconfactory.world) and let's keep going until we reach the stretch goal!\n",
+				"date_published": "2024-02-03T10:30:56-05:00",
+				"url": "https://bobwertz.com/2024/02/03/so-happy-that.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/01/28/in-a-crowded.html",
+				
+				"content_html": "<p>In a crowded Starbucks. I glance up to see if they&rsquo;ve called my name. I didn&rsquo;t hear them, but it&rsquo;s been a while. A woman waiting for her drink looks at me and spells my name with sign language. I nod and then realize what she did. B-O-B is pretty easy in sign language, but it was still pretty cool.</p>\n",
+				"content_text": "In a crowded Starbucks. I glance up to see if they've called my name. I didn't hear them, but it's been a while. A woman waiting for her drink looks at me and spells my name with sign language. I nod and then realize what she did. B-O-B is pretty easy in sign language, but it was still pretty cool.\n",
+				"date_published": "2024-01-28T14:06:40-05:00",
+				"url": "https://bobwertz.com/2024/01/28/in-a-crowded.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2024/01/28/we-asked-ai.html",
 				
 				"content_html": "<p><a href=\"https://www.nytimes.com/interactive/2024/01/25/business/ai-image-generators-openai-microsoft-midjourney-copyright.html\">We Asked A.I. to Create the Joker. It Generated a Copyrighted Image. - The New York Times</a></p>\n<p>I don’t have an issue with the concept of AI, but especially with imagery, how you train the model matters. The most popular generative systems were trained on copyrighted material and that’s a problem.</p>\n",
