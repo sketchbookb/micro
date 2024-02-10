@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2024/02/10/trying-out-a.html",
+				
+				"content_html": "<p>Trying out a new Starbucks that just opened. This location was clearly designed to primarily be a drive thru and pick up location. It looks tiny from the outside, but actually has a lot of seating.</p>\n",
+				"content_text": "Trying out a new Starbucks that just opened. This location was clearly designed to primarily be a drive thru and pick up location. It looks tiny from the outside, but actually has a lot of seating.\n",
+				"date_published": "2024-02-10T08:53:53-05:00",
+				"url": "https://bobwertz.com/2024/02/10/trying-out-a.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/02/04/i-like-the.html",
+				
+				"content_html": "<p>I like the way that <a href=\"https://micro.blog/manton\">@manton</a> has improved crossposting in Micro.Blog.</p>\n",
+				"content_text": "I like the way that [@manton](https://micro.blog/manton) has improved crossposting in Micro.Blog.\n",
+				"date_published": "2024-02-04T13:17:19-05:00",
+				"url": "https://bobwertz.com/2024/02/04/i-like-the.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2024/02/03/so-happy-that.html",
 				
 				"content_html": "<p>So happy that Project Tapestry is funded. Congrats to <a href=\"https://micro.blog/Iconfactory@iconfactory.world\">@Iconfactory@iconfactory.world</a> and let&rsquo;s keep going until we reach the stretch goal!</p>\n",
