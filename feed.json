@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2024/02/27/today-i-learned.html",
+				
+				"content_html": "<p>Today, I learned that Tim Hortons has locations in the United States. Had coffee this morning at a location near our hotel in Atlanta.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today, I learned that Tim Hortons has locations in the United States. Had coffee this morning at a location near our hotel in Atlanta. \n\n<img src=\"uploads/2024/5d8c650796.jpg\" width=\"600\" height=\"600\" alt=\"Picture of a Tim Hortons coffee cup on a table. \">\n",
+				"date_published": "2024-02-27T20:49:22-05:00",
+				"url": "https://bobwertz.com/2024/02/27/today-i-learned.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/02/23/my-first-guess.html",
+				
+				"content_html": "<p>My first guess in Wordle today eliminated all but one word. Solved in two.</p>\n",
+				"content_text": "My first guess in Wordle today eliminated all but one word. Solved in two. \n",
+				"date_published": "2024-02-23T09:26:34-05:00",
+				"url": "https://bobwertz.com/2024/02/23/my-first-guess.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/02/22/the-apple-sports.html",
+				
+				"content_html": "<p>The Apple Sports app for following games in progress is so much better than using ESPN’s web site. Simple, but really well done.</p>\n",
+				"content_text": "The Apple Sports app for following games in progress is so much better than using ESPN’s web site. Simple, but really well done. \n",
+				"date_published": "2024-02-22T20:13:50-05:00",
+				"url": "https://bobwertz.com/2024/02/22/the-apple-sports.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/02/21/just-thinking-manton.html",
+				
+				"content_html": "<p>Just thinking &hellip; <a href=\"https://micro.blog/manton\">@manton</a> &hellip; would it be possible build a Facebook import into Micro.Blog, similar to how the Twitter import works? I shared family memories when my kids were little, and I&rsquo;d love to have it on my site. Facebook allows an export, but I don&rsquo;t know how challenging it would be to import.</p>\n",
+				"content_text": "Just thinking ... [@manton](https://micro.blog/manton) ... would it be possible build a Facebook import into Micro.Blog, similar to how the Twitter import works? I shared family memories when my kids were little, and I'd love to have it on my site. Facebook allows an export, but I don't know how challenging it would be to import.\n",
+				"date_published": "2024-02-21T20:53:20-05:00",
+				"url": "https://bobwertz.com/2024/02/21/just-thinking-manton.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/02/21/im-really-glad.html",
+				
+				"content_html": "<p>I&rsquo;m really glad I was able to export my tweets and move them to Micro.Blog. It gives me a record of all of my activity on Twitter on a site I control, but it also discourages me from going back to Twitter because I know the listing at <a href=\"https://bobwertz.com/tweets/\">bobwertz.com/tweets/</a> is complete.</p>\n",
+				"content_text": "I'm really glad I was able to export my tweets and move them to Micro.Blog. It gives me a record of all of my activity on Twitter on a site I control, but it also discourages me from going back to Twitter because I know the listing at [bobwertz.com/tweets/](https://bobwertz.com/tweets/) is complete.\n",
+				"date_published": "2024-02-21T07:55:23-05:00",
+				"url": "https://bobwertz.com/2024/02/21/im-really-glad.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/02/20/the-price-of.html",
+				
+				"content_html": "<p>The price of taking yesterday off is seven meetings today.</p>\n",
+				"content_text": "The price of taking yesterday off is seven meetings today.\n",
+				"date_published": "2024-02-20T06:51:41-05:00",
+				"url": "https://bobwertz.com/2024/02/20/the-price-of.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2024/02/19/one-irritating-thing.html",
 				
 				"content_html": "<p>One irritating thing about working on your PhD at the same university that you work at&hellip; If you take the day off to do school work, and you need to email someone a school-related question, you see all of your work email that you were trying to avoid.</p>\n",
