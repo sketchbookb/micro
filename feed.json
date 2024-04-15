@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2024/04/15/my-wife-and.html",
+				
+				"content_html": "<p>My wife and son were in a car accident last week and her car was pretty much destroyed. Liz and Ryan were fine, but a tree impaled their car, going through the headlight, engine and stopping between the headrests.</p>\n<p>She just got a notification from her iPhone reminding her where she “parked” her car.</p>\n",
+				"content_text": "My wife and son were in a car accident last week and her car was pretty much destroyed. Liz and Ryan were fine, but a tree impaled their car, going through the headlight, engine and stopping between the headrests. \n\nShe just got a notification from her iPhone reminding her where she “parked” her car.\n",
+				"date_published": "2024-04-15T06:58:00-04:00",
+				"url": "https://bobwertz.com/2024/04/15/my-wife-and.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/04/07/so-even-though.html",
+				
+				"content_html": "<p>So even though I don&rsquo;t work on the athletics side of things at the University of South Carolina, it&rsquo;s going to be a fun couple of weeks celebrating Dawn Staley and these amazing Gamecocks.</p>\n",
+				"content_text": "So even though I don't work on the athletics side of things at the University of South Carolina, it's going to be a fun couple of weeks celebrating Dawn Staley and these amazing Gamecocks. \n",
+				"date_published": "2024-04-07T21:02:03-04:00",
+				"url": "https://bobwertz.com/2024/04/07/so-even-though.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/04/07/national-champs-great.html",
+				
+				"content_html": "<p>National champs! Great game, Gamecocks!</p>\n",
+				"content_text": "National champs! Great game, Gamecocks! \n",
+				"date_published": "2024-04-07T17:14:20-04:00",
+				"url": "https://bobwertz.com/2024/04/07/national-champs-great.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/04/07/microblog-april-photo.html",
+				
+				"content_html": "<p>📷 Micro.Blog April Photo Challenge #7: Wellbeing. A view from my back deck. Breeze blowing. Birds chirping. A little lizard running along the deck rail. Taking time to relax.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Micro.Blog April Photo Challenge #7: Wellbeing. A view from my back deck. Breeze blowing. Birds chirping. A little lizard running along the deck rail. Taking time to relax. \n\n<img src=\"uploads/2024/22d54b528c.jpg\" width=\"600\" height=\"600\" alt=\"A look up at trees and a bright blue sky. \">\n",
+				"date_published": "2024-04-07T11:16:45-04:00",
+				"url": "https://bobwertz.com/2024/04/07/microblog-april-photo.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2024/04/06/anyone-have-recommendations.html",
+				
+				"content_html": "<p>Anyone have recommendations for fountain pen friendly notecards?</p>\n",
+				"content_text": "Anyone have recommendations for fountain pen friendly notecards?\n",
+				"date_published": "2024-04-06T19:07:19-04:00",
+				"url": "https://bobwertz.com/2024/04/06/anyone-have-recommendations.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2024/04/06/microblog-april-photo.html",
 				
 				"content_html": "<p>📷 Micro.Blog April Photo Challenge #6: Windy. Steady breeze at Ryan&rsquo;s lacrosse game this afternoon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Micro.Blog April Photo Challenge #6: Windy. Steady breeze at Ryan's lacrosse game this afternoon.\n\n<img src=\"uploads/2024/img-1500-edited.jpg\" width=\"600\" height=\"600\" alt=\"American flag on a flag pole blowing in the wind with a blue sky.\">\n",
+				"content_text": "📷 Micro.Blog April Photo Challenge #6: Windy. Steady breeze at Ryan's lacrosse game this afternoon.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2024/img-1500-edited.jpg\" width=\"600\" height=\"600\" alt=\"American flag on a flag pole blowing in the wind with a blue sky.\">\n",
 				"date_published": "2024-04-06T16:43:30-04:00",
 				"url": "https://bobwertz.com/2024/04/06/microblog-april-photo.html",
 				"tags": ["Quick Thoughts"]
@@ -28,7 +73,7 @@
 				"id": "http://bobwertz.micro.blog/2024/04/05/microblog-april-photo.html",
 				
 				"content_html": "<p>📷 Micro.Blog April Photo Challenge #5: Serene. Calming green tea, after a Gamecock victory. On to the championship.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Micro.Blog April Photo Challenge #5: Serene. Calming green tea, after a Gamecock victory. On to the championship. \n\n<img src=\"uploads/2024/5e480328e3.jpg\" width=\"600\" height=\"600\" alt=\"Green tea bag steeping in a South Carolina Gamecocks mug. \">\n",
+				"content_text": "📷 Micro.Blog April Photo Challenge #5: Serene. Calming green tea, after a Gamecock victory. On to the championship. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2024/5e480328e3.jpg\" width=\"600\" height=\"600\" alt=\"Green tea bag steeping in a South Carolina Gamecocks mug. \">\n",
 				"date_published": "2024-04-05T21:19:01-04:00",
 				"url": "https://bobwertz.com/2024/04/05/microblog-april-photo.html",
 				"tags": ["Quick Thoughts"]
@@ -37,7 +82,7 @@
 				"id": "http://bobwertz.micro.blog/2024/04/04/microblog-april-photo.html",
 				
 				"content_html": "<p>📷 Micro.Blog April Photo Challenge #4: Foliage. The Horseshoe at the University of South Carolina.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Micro.Blog April Photo Challenge #4: Foliage. The Horseshoe at the University of South Carolina. \n\n<img src=\"uploads/2024/3749cc0309.jpg\" width=\"600\" height=\"600\" alt=\"The Horseshoe at the University of South Carolina\">\n",
+				"content_text": "📷 Micro.Blog April Photo Challenge #4: Foliage. The Horseshoe at the University of South Carolina. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2024/3749cc0309.jpg\" width=\"600\" height=\"600\" alt=\"The Horseshoe at the University of South Carolina\">\n",
 				"date_published": "2024-04-04T19:22:58-04:00",
 				"url": "https://bobwertz.com/2024/04/04/microblog-april-photo.html",
 				"tags": ["Quick Thoughts"]
