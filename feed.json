@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2024/12/28/our-family-has-been-going.html",
+				
+				"content_html": "<p>Our family has been going at full speed since Thanksgiving. Three birthdays, exams for the kiddos, a car accident (everyone is fine), parties, Christmas, family visiting&hellip; Thankfully, not much on the calendar for the next few days until I go back to work on January 2. I need some time to relax.</p>\n",
+				"content_text": "Our family has been going at full speed since Thanksgiving. Three birthdays, exams for the kiddos, a car accident (everyone is fine), parties, Christmas, family visiting... Thankfully, not much on the calendar for the next few days until I go back to work on January 2. I need some time to relax.\n",
+				"date_published": "2024-12-28T10:55:52-05:00",
+				"url": "https://bobwertz.com/2024/12/28/our-family-has-been-going.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2024/12/20/my-daugthers-school.html",
 				
 				"content_html": "<p>My daugther&rsquo;s school has banned use of any unauthorized internet-connected device during school hours. She&rsquo;s going to miss her music during study hall. I&rsquo;m thinking about how to get her music copied over to my old iPod. Or even better, a cassette to use in an old Walkman&hellip;</p>\n",
@@ -37,7 +46,7 @@
 				"id": "http://bobwertz.micro.blog/2024/12/15/my-favorite-eight.html",
 				
 				"content_html": "<p>My favorite eight pictures from 2024.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My favorite eight pictures from 2024.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2024/2024-fav-8.png\" width=\"600\" height=\"600\" alt=\"A collage of images highlighting 2024's best photos.\">\n",
+				"content_text": "My favorite eight pictures from 2024.\n\n<img src=\"uploads/2024/2024-fav-8.png\" width=\"600\" height=\"600\" alt=\"A collage of images highlighting 2024's best photos.\">\n",
 				"date_published": "2024-12-15T10:37:26-05:00",
 				"url": "https://bobwertz.com/2024/12/15/my-favorite-eight.html",
 				"tags": ["Quick Thoughts"]
