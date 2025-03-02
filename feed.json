@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2025/02/28/yesterday-my-middle-schooler-lost.html",
+				
+				"content_html": "<p>Yesterday, my middle schooler lost his backpack with his school-issued Chromebook, his homework and two library books. It&rsquo;s a long story, but after a period of panic, we found it in the high school front office.</p>\n<p>Last night, we put an AirTag on his bag&hellip; just in case it happens again.</p>\n",
+				"content_text": "Yesterday, my middle schooler lost his backpack with his school-issued Chromebook, his homework and two library books. It's a long story, but after a period of panic, we found it in the high school front office.\r\n\r\nLast night, we put an AirTag on his bag... just in case it happens again.\n",
+				"date_published": "2025-02-28T08:02:57-05:00",
+				"url": "https://bobwertz.com/2025/02/28/yesterday-my-middle-schooler-lost.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2025/02/26/my-sleep-schedule-has-been.html",
+				
+				"content_html": "<p>My sleep schedule has been a little bit off lately… went to bed early, woke up a little after midnight, came downstairs and my daughter was still up finishing homework/procrastinating.</p>\n",
+				"content_text": "My sleep schedule has been a little bit off lately… went to bed early, woke up a little after midnight, came downstairs and my daughter was still up finishing homework/procrastinating.\n",
+				"date_published": "2025-02-26T01:23:38-05:00",
+				"url": "https://bobwertz.com/2025/02/26/my-sleep-schedule-has-been.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2025/02/25/eight-years-ago-today-i.html",
 				
 				"content_html": "<p>Eight years ago today, I attended an Edward Tufte workshop in Atlanta. I left questioning so many assumptions about how designers present information and how people process data. It was one of the driving forces behind my return to grad school.</p>\n",
