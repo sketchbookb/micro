@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2025/04/13/spent-today-at-augusta-national.html",
+				
+				"content_html": "<p>Spent today at Augusta National with no phone or digital devices. It&rsquo;s nice to be forced to unplug for the day.</p>\n",
+				"content_text": "Spent today at Augusta National with no phone or digital devices. It's nice to be forced to unplug for the day.\n",
+				"date_published": "2025-04-13T20:58:41-04:00",
+				"url": "https://bobwertz.com/2025/04/13/spent-today-at-augusta-national.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2025/04/12/im-back-to-playing-around.html",
+				
+				"content_html": "<p>I&rsquo;m back to playing around on Fontstruct. Just published <a href=\"https://fontstruct.com/fontstructions/show/2661155/sbb-powercore\">SbB Powercore</a>, a unicase, pixel-inspired design. I&rsquo;m digging this combination of unicase characters. Still a work in progress.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I'm back to playing around on Fontstruct. Just published [SbB Powercore](https://fontstruct.com/fontstructions/show/2661155/sbb-powercore), a unicase, pixel-inspired design. I'm digging this combination of unicase characters. Still a work in progress.\n\n<img src=\"uploads/2025/samplepowercore-80.png\" width=\"300\" height=\"600\" alt=\"Examples of typeface SbB Powercore in use.\">\n",
+				"date_published": "2025-04-12T10:28:26-04:00",
+				"url": "https://bobwertz.com/2025/04/12/im-back-to-playing-around.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2025/04/11/one-thing-about-going-back.html",
+				
+				"content_html": "<p>One thing about going back to grad school in your late 40s&hellip; everyone thinks you are a professor.</p>\n",
+				"content_text": "One thing about going back to grad school in your late 40s... everyone thinks you are a professor.\n",
+				"date_published": "2025-04-11T09:25:23-04:00",
+				"url": "https://bobwertz.com/2025/04/11/one-thing-about-going-back.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2025/04/08/getting-back-in-the-habit.html",
 				
 				"content_html": "<p>Getting back in the habit of writing one of my elected representatives every day.</p>\n",
@@ -37,7 +64,7 @@
 				"id": "http://bobwertz.micro.blog/2025/04/04/googles-ai-overview-has-already.html",
 				
 				"content_html": "<p>Google&rsquo;s AI Overview has already declared that South Carolina defeated UCLA on Sunday for the National Championship.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Google's AI Overview has already declared that South Carolina defeated UCLA on Sunday for the National Championship.\n\n<img src=\"uploads/2025/prophesy.jpg\" width=\"600\" height=\"487\" alt=\"A Google search results page shows information about the 2025 NCAA Division I women's basketball tournament, with details about the championship game, teams involved, and broadcasting.\">\n",
+				"content_text": "Google's AI Overview has already declared that South Carolina defeated UCLA on Sunday for the National Championship.\n\n<img src=\"uploads/2025/prophesy.png\" width=\"600\" height=\"487\" alt=\"A Google search results page shows information about the 2025 NCAA Division I women's basketball tournament, with details about the championship game, teams involved, and broadcasting.\">\n",
 				"date_published": "2025-04-04T09:18:53-04:00",
 				"url": "https://bobwertz.com/2025/04/04/googles-ai-overview-has-already.html",
 				"tags": ["Quick Thoughts"]
@@ -46,7 +73,7 @@
 				"id": "http://bobwertz.micro.blog/2025/04/02/spring-is-finally-coming-to.html",
 				
 				"content_html": "<p>Spring is finally coming to campus.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spring is finally coming to campus. \n\n<img src=\"uploads/2025/2da01fb42c.jpg\" width=\"600\" height=\"600\" alt=\"McKissick Museum at the University of South Carolina stands in the background, surrounded by lush greenery and a pathway, with a flower bed in the foreground.\">\n",
+				"content_text": "Spring is finally coming to campus. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2025/2da01fb42c.jpg\" width=\"600\" height=\"600\" alt=\"McKissick Museum at the University of South Carolina stands in the background, surrounded by lush greenery and a pathway, with a flower bed in the foreground.\">\n",
 				"date_published": "2025-04-02T18:36:47-04:00",
 				"url": "https://bobwertz.com/2025/04/02/spring-is-finally-coming-to.html",
 				"tags": ["Quick Thoughts"]
