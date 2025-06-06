@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2025/06/06/dr-annie-andrews-is-running.html",
+				
+				"content_html": "<p>Dr. Annie Andrews is running for Senate in SC. She’s on Bluesky and someone knows what they are doing because <a href=\"https://bsky.app/profile/drannieandrews.com\">her username is her domain name. 👍</a></p>\n",
+				"content_text": "Dr. Annie Andrews is running for Senate in SC. She’s on Bluesky and someone knows what they are doing because [her username is her domain name. 👍](https://bsky.app/profile/drannieandrews.com)\n",
+				"date_published": "2025-06-06T18:37:16-04:00",
+				"url": "https://bobwertz.com/2025/06/06/dr-annie-andrews-is-running.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2025/06/02/rewatching-arrow-season-so-delightfully.html",
+				
+				"content_html": "<p>Rewatching Arrow Season 1. So delightfully over the top. 📺</p>\n",
+				"content_text": "Rewatching Arrow Season 1. So delightfully over the top. 📺\n",
+				"date_published": "2025-06-02T20:52:19-04:00",
+				"url": "https://bobwertz.com/2025/06/02/rewatching-arrow-season-so-delightfully.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2025/05/29/everyone-is-excited-about-apple.html",
 				
-				"content_html": "<p>Everyone is excited about Apple renumbering the operating system version, but there are still ways they could mess with people:</p>\n<p>macOS twentySIX\nmacOS XXVI\nmacOS Twenty6\nmacOS 20six</p>\n<p>🤣</p>\n",
-				"content_text": "Everyone is excited about Apple renumbering the operating system version, but there are still ways they could mess with people:\n\nmacOS twentySIX\nmacOS XXVI\nmacOS Twenty6\nmacOS 20six\n\n🤣\n",
+				"content_html": "<p>Everyone is excited about Apple renumbering the operating system version, but there are still ways they could mess with people:</p>\n<p>macOS twentySIX<br>\nmacOS XXVI <br>\nmacOS Twenty6<br>\nmacOS 20six</p>\n<p>🤣</p>\n",
+				"content_text": "Everyone is excited about Apple renumbering the operating system version, but there are still ways they could mess with people:\n\nmacOS twentySIX   \nmacOS XXVI    \nmacOS Twenty6   \nmacOS 20six   \n\n🤣\n",
 				"date_published": "2025-05-29T19:04:02-04:00",
 				"url": "https://bobwertz.com/2025/05/29/everyone-is-excited-about-apple.html",
 				"tags": ["Quick Thoughts"]
@@ -64,7 +82,7 @@
 				"id": "http://bobwertz.micro.blog/2025/05/17/wrapped-up-a-really-long.html",
 				
 				"content_html": "<p>Wrapped up a really long middle school lacrosse season. Ryan had a great season in goal and he’s continuing to learn the craft, but I am incredibly glad that we’re done for a little while.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wrapped up a really long middle school lacrosse season. Ryan had a great season in goal and he’s continuing to learn the craft, but I am incredibly glad that we’re done for a little while.\n\n<img src=\"uploads/2025/f466b96f06.jpg\" width=\"600\" height=\"600\" alt=\"A youth lacrosse game is underway, with a goalie and other players actively engaged near the goal.\">\n",
+				"content_text": "Wrapped up a really long middle school lacrosse season. Ryan had a great season in goal and he’s continuing to learn the craft, but I am incredibly glad that we’re done for a little while.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2025/f466b96f06.jpg\" width=\"600\" height=\"600\" alt=\"A youth lacrosse game is underway, with a goalie and other players actively engaged near the goal.\">\n",
 				"date_published": "2025-05-17T12:58:31-04:00",
 				"url": "https://bobwertz.com/2025/05/17/wrapped-up-a-really-long.html",
 				"tags": ["Quick Thoughts"]
