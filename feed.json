@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2026/01/19/i-love-the-beach-in.html",
+				
+				"content_html": "<p>I love the beach in winter. A few shots from Isle of Palms this weekend.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "I love the beach in winter. A few shots from Isle of Palms this weekend. \n\n<img src=\"uploads/2026/bb242f762d.jpg\" width=\"600\" height=\"600\" alt=\"A vast, empty beach stretches towards the horizon under a dramatic, cloud-filled sky.\"><img src=\"uploads/2026/89da212c10.jpg\" width=\"600\" height=\"600\" alt=\"A serene beach scene features a calm shoreline with gentle waves under a colorful sunrise sky.\"><img src=\"uploads/2026/aa11ce7432.jpg\" width=\"600\" height=\"600\" alt=\"A sandy beach at sunrise is scattered with seashells while the sun sets over the horizon.\"><img src=\"uploads/2026/685b728a63.jpg\" width=\"600\" height=\"600\" alt=\"A serene beach scene at sunrise, with gentle waves lapping the shore.\">\n",
+				"date_published": "2026-01-19T22:00:49-05:00",
+				"url": "https://bobwertz.com/2026/01/19/i-love-the-beach-in.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2026/01/17/theres-a-lot-to-like.html",
+				
+				"content_html": "<p>There&rsquo;s a lot to like about <a href=\"https://www.themoviedb.org/tv/223530/season/1\">Star Trek: Starfleet Academy.</a> Some interesting characters and the show looks amazing. Holly Hunter&rsquo;s Chancellor Ake is delightfully quirky for a Starfleet captain. I look forward to seeing where the season goes.</p>\n",
+				"content_text": "There's a lot to like about [Star Trek: Starfleet Academy.](https://www.themoviedb.org/tv/223530/season/1) Some interesting characters and the show looks amazing. Holly Hunter's Chancellor Ake is delightfully quirky for a Starfleet captain. I look forward to seeing where the season goes.\n",
+				"date_published": "2026-01-17T12:29:18-05:00",
+				"url": "https://bobwertz.com/2026/01/17/theres-a-lot-to-like.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2026/01/15/during-the-outage-yesterday-verizon.html",
 				
 				"content_html": "<p>During the outage yesterday, Verizon only shared updates on X. Brands and corporations need to start diversifying their messaging strategy. They have a Threads account that has never posted.</p>\n",
