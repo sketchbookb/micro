@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2026/01/24/back-in-i-wrote-about.html",
+				
+				"content_html": "<p>Back in 2024, <!-- raw HTML omitted -->I wrote about Honda’s new logo that was allegedly only for their EVs.<!-- raw HTML omitted --> They’ve apparently changed their mind, and <!-- raw HTML omitted -->it will now be used for all Honda Automobiles, starting in 2027.<!-- raw HTML omitted --> I’m wondering if the slow rollout is how they’ve decided to handle and potential backlash…</p>\n",
+				"content_text": "Back in 2024, <a href=\"https://bobwertz.com/2024/01/14/honda-shows-off.html\">I wrote about Honda’s new logo that was allegedly only for their EVs.</a> They’ve apparently changed their mind, and <a href=\"https://global.honda/en/newsroom/news/2026/c260113eng.html\">it will now be used for all Honda Automobiles, starting in 2027.</a> I’m wondering if the slow rollout is how they’ve decided to handle and potential backlash…\n",
+				"date_published": "2026-01-24T18:13:40-05:00",
+				"url": "https://bobwertz.com/2026/01/24/back-in-i-wrote-about.html",
+				"tags": ["Quick Thoughts","Branding"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2026/01/19/waves-at-sunrise.html",
+				
+				"content_html": "<p>Waves at sunrise.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Waves at sunrise. \n\n<video controls=\"controls\" playsinline=\"playsinline\" preload=\"none\" width=\"720\" height=\"720\" poster=\"https://bobwertz.com/uploads/2026/poster.jpg\" src=\"https://bobwertz.com/uploads/2026/image.mov\"></video>\n",
+				"date_published": "2026-01-19T22:25:21-05:00",
+				"url": "https://bobwertz.com/2026/01/19/waves-at-sunrise.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2026/01/19/i-love-the-beach-in.html",
 				
 				"content_html": "<p>I love the beach in winter. A few shots from Isle of Palms this weekend.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -46,7 +64,7 @@
 				"id": "http://bobwertz.micro.blog/2026/01/13/saw-this-hawk-out-on.html",
 				
 				"content_html": "<p>Saw this hawk out on the Horseshoe today. I didn’t get a shot of it flying, but it had a massive wingspan.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Saw this hawk out on the Horseshoe today. I didn’t get a shot of it flying, but it had a massive wingspan.\n\n<img src=\"uploads/2026/7027f08e9d.jpg\" width=\"599\" height=\"600\" alt=\"A large bird of prey is standing on the ground with sunlight casting shadows around it.\">\n",
+				"content_text": "Saw this hawk out on the Horseshoe today. I didn’t get a shot of it flying, but it had a massive wingspan.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/7027f08e9d.jpg\" width=\"599\" height=\"600\" alt=\"A large bird of prey is standing on the ground with sunlight casting shadows around it.\">\n",
 				"date_published": "2026-01-13T17:05:41-05:00",
 				"url": "https://bobwertz.com/2026/01/13/saw-this-hawk-out-on.html",
 				"tags": ["Quick Thoughts"]
