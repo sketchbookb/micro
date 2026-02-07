@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2026/02/07/today-is-straight-up-chaotic.html",
+				
+				"content_html": "<p>Today is straight up chaotic. Ryan has the School District Science Fair and lacrosse practice. Jill has Admitted Students Day at the University of South Carolina. Liz has a hair appointment. And I’m just the chauffeur.</p>\n",
+				"content_text": "Today is straight up chaotic. Ryan has the School District Science Fair and lacrosse practice. Jill has Admitted Students Day at the University of South Carolina. Liz has a hair appointment. And I’m just the chauffeur. \n",
+				"date_published": "2026-02-07T08:42:59-05:00",
+				"url": "https://bobwertz.com/2026/02/07/today-is-straight-up-chaotic.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2026/02/04/always-happy-to-support-an.html",
 				
 				"content_html": "<p>Always happy to support an Iconfactory Kickstarter. I’ve never been disappointed. I backed the new Ollie’s Arcade effort today, and if you love iOS games with a retro feel, <a href=\"https://www.kickstarter.com/projects/iconfactory/ollies-arcade-expansion-more-retro-games?ref=thanks-copy\">you should back it too.</a></p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://bobwertz.micro.blog/2026/01/31/snow-is-falling-steadily-here.html",
 				
 				"content_html": "<p>Snow is falling steadily here in Columbia.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Snow is falling steadily here in Columbia. \n\n<img src=\"uploads/2026/be7af0b0ad.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Snow is falling steadily here in Columbia. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/be7af0b0ad.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-01-31T14:43:42-05:00",
 				"url": "https://bobwertz.com/2026/01/31/snow-is-falling-steadily-here.html",
 				"tags": ["Quick Thoughts"]
