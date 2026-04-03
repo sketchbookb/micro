@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2026/04/03/spring-is-here-i-looked.html",
+				
+				"content_html": "<p>Spring is here. I looked up while grilling and noticed our backyard trees are finally all green again. 🍃🍃🍃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spring is here. I looked up while grilling and noticed our backyard trees are finally all green again. 🍃🍃🍃\n\n<img src=\"uploads/2026/d868a241c1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-03T18:35:20-04:00",
+				"url": "https://bobwertz.com/2026/04/03/spring-is-here-i-looked.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2026/04/01/ryan-got-his-first-high.html",
+				
+				"content_html": "<p>Ryan got his first high school start tonight when the starting goalie injured his hand in warm ups. He got the win and a shut out.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ryan got his first high school start tonight when the starting goalie injured his hand in warm ups. He got the win and a shut out.\n\n<img src=\"uploads/2026/5a8dad009b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-04-01T20:54:31-04:00",
+				"url": "https://bobwertz.com/2026/04/01/ryan-got-his-first-high.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2026/04/01/bored-while-sitting-in-a.html",
 				
 				"content_html": "<p>Bored, while sitting in a very long middle school car line. (I’m near the front.)</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +55,7 @@
 				"id": "http://bobwertz.micro.blog/2026/03/26/the-parking-garage-is-so.html",
 				
 				"content_html": "<p>The parking garage is so eerily empty when I get in early.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The parking garage is so eerily empty when I get in early. \n\n<img src=\"uploads/2026/8bb3da8055.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "The parking garage is so eerily empty when I get in early. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/8bb3da8055.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2026-03-26T11:14:00-04:00",
 				"url": "https://bobwertz.com/2026/03/26/the-parking-garage-is-so.html",
 				"tags": ["Quick Thoughts"]
