@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2026/04/07/im-fascinated-by-the-minimalist.html",
+				
+				"content_html": "<p>I&rsquo;m fascinated by the minimalist approach that Slate is taking with their EV pickup. I see opportunity for customization, but others see a small truck without a built-in sound system. <a href=\"https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design\">This article does a good job of summing up the challenges Slate faces in taking a radically different approach.</a></p>\n",
+				"content_text": "I'm fascinated by the minimalist approach that Slate is taking with their EV pickup. I see opportunity for customization, but others see a small truck without a built-in sound system. [This article does a good job of summing up the challenges Slate faces in taking a radically different approach.](https://www.theverge.com/transportation/905947/slate-truck-ev-minimal-range-size-interior-design)\n",
+				"date_published": "2026-04-07T16:03:14-04:00",
+				"url": "https://bobwertz.com/2026/04/07/im-fascinated-by-the-minimalist.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2026/04/07/witnessed-a-drone-delivery-yesterday.html",
 				
 				"content_html": "<p>Witnessed a drone delivery yesterday for the first time when shopping in southern Charlotte. <a href=\"https://ir.doordash.com/news/news-details/2025/DoorDash-Expands-Drone-Delivery-Partnership-with-Wing-in-Charlotte/default.aspx\">Apparently, it&rsquo;s a partnership beween Doordash and Wing, and only available in a four mile radius of the shopping center we were in.</a> Strange to see a drone lower a package to the ground, and then fly off.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://bobwertz.micro.blog/2026/04/01/bored-while-sitting-in-a.html",
 				
 				"content_html": "<p>Bored, while sitting in a very long middle school car line. (I’m near the front.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Bored, while sitting in a very long middle school car line. (I’m near the front.)\n\n<img src=\"uploads/2026/4d2a433b42.jpg\" width=\"600\" height=\"600\" alt=\"A line of parked cars is visible along a grassy area near a brick building under a blue sky with fluffy clouds.\">\n",
+				"content_text": "Bored, while sitting in a very long middle school car line. (I’m near the front.)\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/4d2a433b42.jpg\" width=\"600\" height=\"600\" alt=\"A line of parked cars is visible along a grassy area near a brick building under a blue sky with fluffy clouds.\">\n",
 				"date_published": "2026-04-01T15:07:13-04:00",
 				"url": "https://bobwertz.com/2026/04/01/bored-while-sitting-in-a.html",
 				"tags": ["Quick Thoughts"]
