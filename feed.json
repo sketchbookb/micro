@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://bobwertz.micro.blog/2026/04/23/there-will-be-three-players.html",
+				
+				"content_html": "<p>There will be THREE players on next year’s South Carolina Women’s Basketball roster who can dunk: Watkins, Tournebize and Edwards.</p>\n",
+				"content_text": "There will be THREE players on next year’s South Carolina Women’s Basketball roster who can dunk: Watkins, Tournebize and Edwards. \n",
+				"date_published": "2026-04-23T12:39:08-04:00",
+				"url": "https://bobwertz.com/2026/04/23/there-will-be-three-players.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2026/04/23/ive-recently-rediscovered-my-love.html",
+				
+				"content_html": "<p>I’ve recently rediscovered my love of tea. I bought a small electric kettle for my office, ordered some outstanding Goddess Gray loose tea from <a href=\"https://fullmoonteacompany.com/\">Full Moon Tea Company in Asheville</a>, and I&rsquo;m using my ceramic <a href=\"https://teaforte.com/products/tea-accessories-kati-steeping-cup-noir-20883\">Tea Forte Kati cup with an integrated infuser basket</a>. A great mid-morning routine.</p>\n",
+				"content_text": "I’ve recently rediscovered my love of tea. I bought a small electric kettle for my office, ordered some outstanding Goddess Gray loose tea from [Full Moon Tea Company in Asheville](https://fullmoonteacompany.com/), and I'm using my ceramic [Tea Forte Kati cup with an integrated infuser basket](https://teaforte.com/products/tea-accessories-kati-steeping-cup-noir-20883). A great mid-morning routine.\n",
+				"date_published": "2026-04-23T09:50:20-04:00",
+				"url": "https://bobwertz.com/2026/04/23/ive-recently-rediscovered-my-love.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2026/04/22/metaless.html",
+				"title": "Metaless",
+				"content_html": "<h2 id=\"how-do-i-prepare-to-move-away-from-facebook-instagram-and-threads\">How do I prepare to move away from Facebook, Instagram and Threads?</h2>\n<!-- raw HTML omitted -->\n<p>In 2016, I wrote <a href=\"https://bobwertz.com/2016/11/09/twitterless.html\">a post</a> about the things I would miss if Twitter went out of business. I identified potential pain points, and identified what steps to take just in case. After Twitter was acquired, <a href=\"https://bobwertz.com/2023/07/25/twitterless-the-final.html\">I was able to easily leave my account.</a></p>\n<p>Now, I’m thinking about what it would take to leave Meta’s products. I don’t think they are going to go out of business. They are the social media equivalent of “too big to fail.” I’ve long believed that Meta is an unethical company that builds addictive products. They’ve been awful for a long time, though, so why have I just made the decision to plan my exit? I used to enjoy Instagram, but lately, not so much. I’m posting less, and at the same time, seeing less content from people I know. I think it’s time to start the process.</p>\n<p>When we talk about Meta, I’m talking about three products that I currently use: Facebook, Instagram and Threads. I started using Facebook in 2008 and have used Instagram and Threads since they were released.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> I now rarely log into Facebook, but I use Instagram and Threads regularly. I don’t use What’s App or Messenger, so those aren’t an issue for me.</p>\n<p>I will note that some of the systems I adopted to leave Twitter help me with this new attempt to leave Meta. Since 2022, I’ve essentially run a P.O.S.S.E.<sup id=\"fnref:2\"><a href=\"#fn:2\" class=\"footnote-ref\" role=\"doc-noteref\">2</a></sup> set up (Publish Own Site, Syndicate Elsewhere) where most of my posts start on bobwertz.com via Micro.Blog and are then shared to Bluesky, Mastodon and Threads. Threads is the only Meta app that allows for this type of API access so it tends to be a little more integrated into my daily routine.</p>\n<p>Looking at the Meta apps individually, here’s what I need to do to move away from Meta:</p>\n<p><strong>Facebook.</strong> I’ve mostly already left Facebook. On my <a href=\"https://bobwertz.com/about-bob/\">About Bob</a> page, it’s listed under “Not Updated Social.” The only thing left there are my old posts. And some of those old post contain awesome stories from when my kids were little. I downloaded a file with all the content, but I’d really like an online archive. Manton with Micro.Blog has said before that building a Facebook importer should be relatively easy. If he builds an importer like he did for Twitter, I can probably go ahead and close my Facebook page.</p>\n<p><strong>Instagram.</strong> Over the last few years, I’ve slowed my posting to Instagram. These days, I mostly use Instagram to view content. Increasingly, the content is ads, TikTok influencers, and AI slop. I was never a TikTok user, but I now understand why people love (and are addicted to) the short video format. Once you get sucked in, it’s easy to just sit there scrolling and scrolling. That said, I have lots of content I want to see and I think I’d rather spend my time watching one of the dozens of TV shows on my list, reading through my RSS feed, or even watching long form YouTube videos.</p>\n<p>I do have over 15 years of images on Instagram, and while they all likely exist in my photo library, I still want to keep a record of them. Thankfully, Micro.Blog does have a way to import Instagram posts. I’ll need to do some manual clean up, since some of my Micro.Blog images are duplicated on Instagram. I’ve already downloaded my images and run a couple of test imports. It’s going to take a little while, but it’s worth it.</p>\n<p>While I may not immediately delete the account, I do feel like I’m already at a point where I can step away. Sometime soon, I’ll probably drop a note in the bio that my Instagram feed is no longer updated, and then delete the app from my phone. I actually just flipped my account to private. I’ve always had a public account, but recently, it just seems that every new follower is a spam bot that I have to block.</p>\n<p><strong>Threads.</strong> Weirdly, even though it’s the social media network I’ve been on for the shortest period of time, Threads might be the hardest to replace for me right now. It’s connected to Micro.Blog, so crossposting is easy. It’s is a great source for niche news that I care about, for example: women’s college basketball and F1. While I feel like I could easily leave Instagram, I believe that Threads still adds some value for me.</p>\n<p>But more importantly, Threads is also the place where I get the most engagement on what I share through Micro.Blog crossposting. Part of this is the Threads algorithm, but I also do know a bunch of people on Threads who respond to my posts… which leads to the biggest problem of all&hellip;</p>\n<p><!-- raw HTML omitted -->Meta’s apps are where people I actually know share updates.<!-- raw HTML omitted --></p>\n<p>The real problem with leaving Meta is that my family, friends and acquaintances are there. Facebook and Instagram especially. If I leave Meta’s ecosystem completely, how will I communicate with friends and family? How will I know what’s going on in the communities around me? Sadly, I guess the simple answer is that I won’t. No other ecosystem has the extensive network that exists on Meta’s platforms and with today’s fragmented social media infrastructure, no singular alternative is going to form to rival the number of users that Facebook and Instagram have. A very small number of my friends are on Mastodon or Bluesky.<sup id=\"fnref:3\"><a href=\"#fn:3\" class=\"footnote-ref\" role=\"doc-noteref\">3</a></sup> A choice to leave Meta products entirely is a choice to cut off connections. And I’m not 100% ready to completely sever those ties.</p>\n<hr>\n<p>Which means I can’t quite get rid of Meta yet. But I’m actually closer than I thought I was. My plan is to look again at ways to preserve my Facebook and Instagram posts. I want an archive of everything. I’ll then completely pause activity on those platforms for the foreseeable future. I’ve long since deleted the Facebook app from my phone. Instagram will be next. I won’t delete those accounts yet. I’ll continue crossposting to Threads<sup id=\"fnref:4\"><a href=\"#fn:4\" class=\"footnote-ref\" role=\"doc-noteref\">4</a></sup> for the time being, but start to look for ways to get the same content on other channels. I wrote a total of six Twitterless posts, so I’ll likely follow up on this one eventually. Check back in on non-Meta social media for updates. Or just follow my RSS feed.</p>\n<hr>\n<p><em>Bob Wertz is a type designer, Ph.D. student and researcher living in Columbia, South Carolina. He’s been blogging since 2008.</em></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>I joined Instagram the month it was released in October 2010. I joined Threads minutes after it was open to the public in 2023 and is user #210,850.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:2\">\n<p>Yeah, I hate acronyms, too.&#160;<a href=\"#fnref:2\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:3\">\n<p>I know a bunch of people on Linked In, but it’s Linked In.&#160;<a href=\"#fnref:3\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n<li id=\"fn:4\">\n<p>I think Threads still requires an Instagram account, so as long as I am using Threads, I have to at least have an active Instagram account.&#160;<a href=\"#fnref:4\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
+				"content_text": "## How do I prepare to move away from Facebook, Instagram and Threads?\n\n<img src=\"uploads/2026/6f6ca610ab.png\" alt=\"Instagram logo, but with a stop sign in place of the lens.\" title=\"instagram_stop.png\" border=\"0\" width=\"599\" height=\"367\" />\n\nIn 2016, I wrote [a post](https://bobwertz.com/2016/11/09/twitterless.html) about the things I would miss if Twitter went out of business. I identified potential pain points, and identified what steps to take just in case. After Twitter was acquired, [I was able to easily leave my account.](https://bobwertz.com/2023/07/25/twitterless-the-final.html)\n\nNow, I’m thinking about what it would take to leave Meta’s products. I don’t think they are going to go out of business. They are the social media equivalent of “too big to fail.” I’ve long believed that Meta is an unethical company that builds addictive products. They’ve been awful for a long time, though, so why have I just made the decision to plan my exit? I used to enjoy Instagram, but lately, not so much. I’m posting less, and at the same time, seeing less content from people I know. I think it’s time to start the process.\n\nWhen we talk about Meta, I’m talking about three products that I currently use: Facebook, Instagram and Threads. I started using Facebook in 2008 and have used Instagram and Threads since they were released.[^1] I now rarely log into Facebook, but I use Instagram and Threads regularly. I don’t use What’s App or Messenger, so those aren’t an issue for me.\n\nI will note that some of the systems I adopted to leave Twitter help me with this new attempt to leave Meta. Since 2022, I’ve essentially run a P.O.S.S.E.[^2] set up (Publish Own Site, Syndicate Elsewhere) where most of my posts start on bobwertz.com via Micro.Blog and are then shared to Bluesky, Mastodon and Threads. Threads is the only Meta app that allows for this type of API access so it tends to be a little more integrated into my daily routine. \n\nLooking at the Meta apps individually, here’s what I need to do to move away from Meta:\n\n**Facebook.** I’ve mostly already left Facebook. On my [About Bob](https://bobwertz.com/about-bob/) page, it’s listed under “Not Updated Social.” The only thing left there are my old posts. And some of those old post contain awesome stories from when my kids were little. I downloaded a file with all the content, but I’d really like an online archive. Manton with Micro.Blog has said before that building a Facebook importer should be relatively easy. If he builds an importer like he did for Twitter, I can probably go ahead and close my Facebook page.\n\n**Instagram.** Over the last few years, I’ve slowed my posting to Instagram. These days, I mostly use Instagram to view content. Increasingly, the content is ads, TikTok influencers, and AI slop. I was never a TikTok user, but I now understand why people love (and are addicted to) the short video format. Once you get sucked in, it’s easy to just sit there scrolling and scrolling. That said, I have lots of content I want to see and I think I’d rather spend my time watching one of the dozens of TV shows on my list, reading through my RSS feed, or even watching long form YouTube videos. \n\nI do have over 15 years of images on Instagram, and while they all likely exist in my photo library, I still want to keep a record of them. Thankfully, Micro.Blog does have a way to import Instagram posts. I’ll need to do some manual clean up, since some of my Micro.Blog images are duplicated on Instagram. I’ve already downloaded my images and run a couple of test imports. It’s going to take a little while, but it’s worth it.\n\nWhile I may not immediately delete the account, I do feel like I’m already at a point where I can step away. Sometime soon, I’ll probably drop a note in the bio that my Instagram feed is no longer updated, and then delete the app from my phone. I actually just flipped my account to private. I’ve always had a public account, but recently, it just seems that every new follower is a spam bot that I have to block.\n\n**Threads.** Weirdly, even though it’s the social media network I’ve been on for the shortest period of time, Threads might be the hardest to replace for me right now. It’s connected to Micro.Blog, so crossposting is easy. It’s is a great source for niche news that I care about, for example: women’s college basketball and F1. While I feel like I could easily leave Instagram, I believe that Threads still adds some value for me.\n\nBut more importantly, Threads is also the place where I get the most engagement on what I share through Micro.Blog crossposting. Part of this is the Threads algorithm, but I also do know a bunch of people on Threads who respond to my posts… which leads to the biggest problem of all...\n\n<strong>Meta’s apps are where people I actually know share updates.</strong>\n\nThe real problem with leaving Meta is that my family, friends and acquaintances are there. Facebook and Instagram especially. If I leave Meta’s ecosystem completely, how will I communicate with friends and family? How will I know what’s going on in the communities around me? Sadly, I guess the simple answer is that I won’t. No other ecosystem has the extensive network that exists on Meta’s platforms and with today’s fragmented social media infrastructure, no singular alternative is going to form to rival the number of users that Facebook and Instagram have. A very small number of my friends are on Mastodon or Bluesky.[^3] A choice to leave Meta products entirely is a choice to cut off connections. And I’m not 100% ready to completely sever those ties.\n\n---\n\nWhich means I can’t quite get rid of Meta yet. But I’m actually closer than I thought I was. My plan is to look again at ways to preserve my Facebook and Instagram posts. I want an archive of everything. I’ll then completely pause activity on those platforms for the foreseeable future. I’ve long since deleted the Facebook app from my phone. Instagram will be next. I won’t delete those accounts yet. I’ll continue crossposting to Threads[^4] for the time being, but start to look for ways to get the same content on other channels. I wrote a total of six Twitterless posts, so I’ll likely follow up on this one eventually. Check back in on non-Meta social media for updates. Or just follow my RSS feed.\n\n---\n\n_Bob Wertz is a type designer, Ph.D. student and researcher living in Columbia, South Carolina. He’s been blogging since 2008._\n\n\n[^1]: I joined Instagram the month it was released in October 2010. I joined Threads minutes after it was open to the public in 2023 and is user #210,850.\n\n[^2]: Yeah, I hate acronyms, too.\n\n[^3]: I know a bunch of people on Linked In, but it’s Linked In. \n\n[^4]: I think Threads still requires an Instagram account, so as long as I am using Threads, I have to at least have an active Instagram account.\n\n\n",
+				"date_published": "2026-04-22T22:40:48-04:00",
+				"url": "https://bobwertz.com/2026/04/22/metaless.html",
+				"tags": ["Long Posts","Social"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2026/04/21/thanks-to-cotton-bureau-for.html",
 				
 				"content_html": "<p>Thanks to Cotton Bureau for featuring <a href=\"https://cottonbureau.com/p/JA3JJG/shirt/happy-frank#/35022044/tee-men-premium-lightweight-envy-tri-blend-s\">my new &ldquo;Happy Frank&rdquo; shirt design</a> in their T-Shirt Tuesday email. (And yes, I know his full name is Frankenstein&rsquo;s Monster, but he just goes by Frank these days.)</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +55,7 @@
 				"id": "http://bobwertz.micro.blog/2026/04/19/blade-wing.html",
 				"title": "Blade Wing",
 				"content_html": "<p><em>For one year, I wrote a blog post about a random topic and designed a shirt inspired by the blog post.<sup id=\"fnref:1\"><a href=\"#fn:1\" class=\"footnote-ref\" role=\"doc-noteref\">1</a></sup> Lately, I’m giving myself some projects so I can learn to be more proficient in Canva Affinity and decided to design a t-shirt about my favorite Star Wars spaceship.</em></p>\n<p>I was the perfect age when Return of the Jedi came out. And while I know that the Empire Strikes Back is the better movie, I have fond memories of seeing Return of the Jedi in theaters. And that’s probably why the B-Wing fighter is my favorite Star Wars ship.</p>\n<!-- raw HTML omitted -->\n<p>If you haven’t seen a <a href=\"https://starwars.fandom.com/wiki/A/SF-01_B-wing_starfighter\">B-Wing</a>, it’s a strange vehicle. It has a pilot capsule, and then the rest of the ship consists of one long wing, with a cross-shaped pair of wings that fold out. The whole ship spins around the pilot capsule like a gyroscope. When it lands, the wings fold up and it lays on its side. The B-Wing looked completely different than the other fighters… the X-Wing, the Y-Wing and the A-Wing. Plus it looked nothing like the letter B.</p>\n<p>The B-Wing gets very little screen time in Return of the Jedi. Apparently, the wings of the ship were too thin with the special effects of the early 1980s and they would just disappear against the blue screen. But the B-Wing toy was amazing and I’ve long held a place in my heart for this odd little ship.</p>\n<p>Since the original series, the B-Wing shows up in a few places. Star Wars Rebels gives the B-Wing an origin story in S2 E7 Wings of the Master. Designed in secret by a Mon Calamari ship designer, Quarrie, Hera convinces him to let the Rebel Alliance develop his “Blade Wing” fighter. The Alphabet Squadron book series includes a B-Wing. The B-Wing shows up a little in the Rise of Skywalker, but every ship shows up in the Rise of Skywalker.</p>\n<p>At the end of Skeleton Crew, a couple of B-Wings show up in the final battle over At Attin and deliver the final blow to destroy the pirate mothership. Notably, this was the first time a B-Wing has been shown firing its main weapon in live action.</p>\n<p>I decided that I needed some B-Wing merch so I created a new shirt on Cotton Bureau — <a href=\"https://cottonbureau.com/p/3YAU9P/shirt/blade-wing#/35032571/tee-men-premium-lightweight-premium-heather-tri-blend-s\">Blade Wing</a>. It features an abstract illustration of the B-wing in its landed configuration. You can get it in a couple of different colors. If you are also a fan of the most distinct fighter in the Star Wars universe, <a href=\"https://cottonbureau.com/p/3YAU9P/shirt/blade-wing#/35032571/tee-men-premium-lightweight-premium-heather-tri-blend-s\">head on over to Cotton Bureau and grab a shirt.</a></p>\n<!-- raw HTML omitted -->\n<hr>\n<p><em>Bob Wertz is a type designer, Ph.D. student and researcher living in Columbia, South Carolina. He’s been blogging since 2008.</em></p>\n<div class=\"footnotes\" role=\"doc-endnotes\">\n<hr>\n<ol>\n<li id=\"fn:1\">\n<p>My <a href=\"https://www.sketchbookb.com/52-shirts/\">52 Shirts project</a> is over at Sketchbook B. I haven’t had a chance to move them all here yet.&#160;<a href=\"#fnref:1\" class=\"footnote-backref\" role=\"doc-backlink\">&#x21a9;&#xfe0e;</a></p>\n</li>\n</ol>\n</div>\n",
-				"content_text": "_For one year, I wrote a blog post about a random topic and designed a shirt inspired by the blog post.[^1] Lately, I’m giving myself some projects so I can learn to be more proficient in Canva Affinity and decided to design a t-shirt about my favorite Star Wars spaceship._\n\nI was the perfect age when Return of the Jedi came out. And while I know that the Empire Strikes Back is the better movie, I have fond memories of seeing Return of the Jedi in theaters. And that’s probably why the B-Wing fighter is my favorite Star Wars ship.\n\n<img src=\"uploads/2026/bwing-landed.png\" alt=\"Abstract drawing of a B-wing with wings closed.\" title=\"bwing_landed.png\" border=\"0\" width=\"599\" height=\"337\" />\n\nIf you haven’t seen a [B-Wing](https://starwars.fandom.com/wiki/A/SF-01_B-wing_starfighter), it’s a strange vehicle. It has a pilot capsule, and then the rest of the ship consists of one long wing, with a cross-shaped pair of wings that fold out. The whole ship spins around the pilot capsule like a gyroscope. When it lands, the wings fold up and it lays on its side. The B-Wing looked completely different than the other fighters… the X-Wing, the Y-Wing and the A-Wing. Plus it looked nothing like the letter B.\n\nThe B-Wing gets very little screen time in Return of the Jedi. Apparently, the wings of the ship were too thin with the special effects of the early 1980s and they would just disappear against the blue screen. But the B-Wing toy was amazing and I’ve long held a place in my heart for this odd little ship.\n\nSince the original series, the B-Wing shows up in a few places. Star Wars Rebels gives the B-Wing an origin story in S2 E7 Wings of the Master. Designed in secret by a Mon Calamari ship designer, Quarrie, Hera convinces him to let the Rebel Alliance develop his “Blade Wing” fighter. The Alphabet Squadron book series includes a B-Wing. The B-Wing shows up a little in the Rise of Skywalker, but every ship shows up in the Rise of Skywalker.\n\nAt the end of Skeleton Crew, a couple of B-Wings show up in the final battle over At Attin and deliver the final blow to destroy the pirate mothership. Notably, this was the first time a B-Wing has been shown firing its main weapon in live action.\n\nI decided that I needed some B-Wing merch so I created a new shirt on Cotton Bureau — [Blade Wing](https://cottonbureau.com/p/3YAU9P/shirt/blade-wing#/35032571/tee-men-premium-lightweight-premium-heather-tri-blend-s). It features an abstract illustration of the B-wing in its landed configuration. You can get it in a couple of different colors. If you are also a fan of the most distinct fighter in the Star Wars universe, [head on over to Cotton Bureau and grab a shirt.](https://cottonbureau.com/p/3YAU9P/shirt/blade-wing#/35032571/tee-men-premium-lightweight-premium-heather-tri-blend-s)\n\n<img src=\"uploads/2026/bwing-shirt-comps.png\" alt=\"Bwing shirt comps.\" title=\"bwing shirt comps.png\" border=\"0\" width=\"600\" height=\"300\" />\n\n---\n\n_Bob Wertz is a type designer, Ph.D. student and researcher living in Columbia, South Carolina. He’s been blogging since 2008._\n\n[^1]: My [52 Shirts project](https://www.sketchbookb.com/52-shirts/) is over at Sketchbook B. I haven’t had a chance to move them all here yet.\n",
+				"content_text": "_For one year, I wrote a blog post about a random topic and designed a shirt inspired by the blog post.[^1] Lately, I’m giving myself some projects so I can learn to be more proficient in Canva Affinity and decided to design a t-shirt about my favorite Star Wars spaceship._\n\nI was the perfect age when Return of the Jedi came out. And while I know that the Empire Strikes Back is the better movie, I have fond memories of seeing Return of the Jedi in theaters. And that’s probably why the B-Wing fighter is my favorite Star Wars ship.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/bwing-landed.png\" alt=\"Abstract drawing of a B-wing with wings closed.\" title=\"bwing_landed.png\" border=\"0\" width=\"599\" height=\"337\" />\n\nIf you haven’t seen a [B-Wing](https://starwars.fandom.com/wiki/A/SF-01_B-wing_starfighter), it’s a strange vehicle. It has a pilot capsule, and then the rest of the ship consists of one long wing, with a cross-shaped pair of wings that fold out. The whole ship spins around the pilot capsule like a gyroscope. When it lands, the wings fold up and it lays on its side. The B-Wing looked completely different than the other fighters… the X-Wing, the Y-Wing and the A-Wing. Plus it looked nothing like the letter B.\n\nThe B-Wing gets very little screen time in Return of the Jedi. Apparently, the wings of the ship were too thin with the special effects of the early 1980s and they would just disappear against the blue screen. But the B-Wing toy was amazing and I’ve long held a place in my heart for this odd little ship.\n\nSince the original series, the B-Wing shows up in a few places. Star Wars Rebels gives the B-Wing an origin story in S2 E7 Wings of the Master. Designed in secret by a Mon Calamari ship designer, Quarrie, Hera convinces him to let the Rebel Alliance develop his “Blade Wing” fighter. The Alphabet Squadron book series includes a B-Wing. The B-Wing shows up a little in the Rise of Skywalker, but every ship shows up in the Rise of Skywalker.\n\nAt the end of Skeleton Crew, a couple of B-Wings show up in the final battle over At Attin and deliver the final blow to destroy the pirate mothership. Notably, this was the first time a B-Wing has been shown firing its main weapon in live action.\n\nI decided that I needed some B-Wing merch so I created a new shirt on Cotton Bureau — [Blade Wing](https://cottonbureau.com/p/3YAU9P/shirt/blade-wing#/35032571/tee-men-premium-lightweight-premium-heather-tri-blend-s). It features an abstract illustration of the B-wing in its landed configuration. You can get it in a couple of different colors. If you are also a fan of the most distinct fighter in the Star Wars universe, [head on over to Cotton Bureau and grab a shirt.](https://cottonbureau.com/p/3YAU9P/shirt/blade-wing#/35032571/tee-men-premium-lightweight-premium-heather-tri-blend-s)\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/bwing-shirt-comps.png\" alt=\"Bwing shirt comps.\" title=\"bwing shirt comps.png\" border=\"0\" width=\"600\" height=\"300\" />\n\n---\n\n_Bob Wertz is a type designer, Ph.D. student and researcher living in Columbia, South Carolina. He’s been blogging since 2008._\n\n[^1]: My [52 Shirts project](https://www.sketchbookb.com/52-shirts/) is over at Sketchbook B. I haven’t had a chance to move them all here yet.\n",
 				"date_published": "2026-04-19T13:29:42-04:00",
 				"url": "https://bobwertz.com/2026/04/19/blade-wing.html",
 				"tags": ["Long Posts"]
@@ -37,7 +64,7 @@
 				"id": "http://bobwertz.micro.blog/2026/04/18/avett-brothers-at-the-township.html",
 				
 				"content_html": "<p>Avett Brothers at the Township Auditorium.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Avett Brothers at the Township Auditorium. \n\n<img src=\"uploads/2026/fbbbf2d4d0.jpg\" width=\"599\" height=\"600\" alt=\"The Avett Brothers perform on stage under red lighting before an audience.\">\n",
+				"content_text": "Avett Brothers at the Township Auditorium. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/fbbbf2d4d0.jpg\" width=\"599\" height=\"600\" alt=\"The Avett Brothers perform on stage under red lighting before an audience.\">\n",
 				"date_published": "2026-04-18T22:40:02-04:00",
 				"url": "https://bobwertz.com/2026/04/18/avett-brothers-at-the-township.html",
 				"tags": ["Quick Thoughts"]
@@ -8854,10 +8881,640 @@
 				"tags": ["Long Posts","Reposted"]
 			},
 			{
+				"id": "http://bobwertz.micro.blog/2012/03/20/no-fun.html",
+				
+				"content_html": "<p>No&hellip; Fun.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No... Fun.\n\n<img src=\"uploads/2026/8e55a65ff4.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2012-03-20T13:41:13-04:00",
+				"url": "https://bobwertz.com/2012/03/20/no-fun.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2012/03/10/k.html",
+				
+				"content_html": "<p>64k!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "64k!\n\n<img src=\"uploads/2026/555218c056.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2012-03-10T19:31:30-04:00",
+				"url": "https://bobwertz.com/2012/03/10/k.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2012/03/04/sisters.html",
+				
+				"content_html": "<p>Sisters</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sisters\n\n<img src=\"uploads/2026/ee05791fd7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2012-03-04T16:06:24-04:00",
+				"url": "https://bobwertz.com/2012/03/04/sisters.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2012/03/03/happy-baby.html",
+				
+				"content_html": "<p>Happy Baby</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy Baby\n\n<img src=\"uploads/2026/d63b173065.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2012-03-03T21:11:47-04:00",
+				"url": "https://bobwertz.com/2012/03/03/happy-baby.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2012/02/17/slow-down-and-spell-correctly.html",
+				
+				"content_html": "<p>Slow down and spell correctly</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Slow down and spell correctly\n\n<img src=\"uploads/2026/d5f3379664.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2012-02-17T14:18:22-04:00",
+				"url": "https://bobwertz.com/2012/02/17/slow-down-and-spell-correctly.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/12/04/happy-baby.html",
+				
+				"content_html": "<p>Happy baby</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy baby\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/52d6d25104.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-12-04T11:34:33-04:00",
+				"url": "https://bobwertz.com/2011/12/04/happy-baby.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/12/02/ryan-waiting-for-doctor.html",
+				
+				"content_html": "<p>Ryan waiting for doctor</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ryan waiting for doctor\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/51a54a4570.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-12-02T09:14:07-04:00",
+				"url": "https://bobwertz.com/2011/12/02/ryan-waiting-for-doctor.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/11/30/i-had-cents-off-from.html",
+				
+				"content_html": "<p>I had 50 cents off from Kroger.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I had 50 cents off from Kroger. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/b71c1a0104.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-11-30T12:08:34-04:00",
+				"url": "https://bobwertz.com/2011/11/30/i-had-cents-off-from.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/11/26/random-hospital-room-wallpaper.html",
+				
+				"content_html": "<p>Random hospital room wallpaper</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Random hospital room wallpaper\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/0d38454e91.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-11-26T14:34:37-04:00",
+				"url": "https://bobwertz.com/2011/11/26/random-hospital-room-wallpaper.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/11/25/ryan-alexander-wertz.html",
+				
+				"content_html": "<p>Ryan Alexander Wertz</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ryan Alexander Wertz\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/1f258180c6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-11-25T01:19:58-04:00",
+				"url": "https://bobwertz.com/2011/11/25/ryan-alexander-wertz.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/11/04/light.html",
+				
+				"content_html": "<p>Light</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Light\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/fd421aff3c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-11-04T21:36:50-04:00",
+				"url": "https://bobwertz.com/2011/11/04/light.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/10/29/pirate-and-ladybug.html",
+				
+				"content_html": "<p>Pirate and Ladybug</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pirate and Ladybug\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/d5f0b996a3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-10-29T16:58:28-04:00",
+				"url": "https://bobwertz.com/2011/10/29/pirate-and-ladybug.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/10/22/the-cast-is-off.html",
+				
+				"content_html": "<p>The cast is off!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The cast is off!\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/adb91ee731.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-10-22T17:47:55-04:00",
+				"url": "https://bobwertz.com/2011/10/22/the-cast-is-off.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/10/12/the-deanguin.html",
+				
+				"content_html": "<p>The Deanguin</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Deanguin\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/c11d4af964.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-10-12T18:39:27-04:00",
+				"url": "https://bobwertz.com/2011/10/12/the-deanguin.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/10/03/pin.html",
+				
+				"content_html": "<p>Pin</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pin\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/8180ad4906.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-10-03T15:40:48-04:00",
+				"url": "https://bobwertz.com/2011/10/03/pin.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/09/24/the-wounded.html",
+				
+				"content_html": "<p>The wounded&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The wounded...\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/216ea0700b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-09-24T12:58:08-04:00",
+				"url": "https://bobwertz.com/2011/09/24/the-wounded.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/09/24/mrs-sketchbook-b.html",
+				
+				"content_html": "<p>Mrs. Sketchbook B</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mrs. Sketchbook B\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/0bb78bf50e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-09-24T12:55:11-04:00",
+				"url": "https://bobwertz.com/2011/09/24/mrs-sketchbook-b.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/09/24/ice-cream.html",
+				
+				"content_html": "<p>Ice Cream</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ice Cream\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/af87a38ad1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-09-24T12:50:46-04:00",
+				"url": "https://bobwertz.com/2011/09/24/ice-cream.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/09/04/fake-flowers.html",
+				
+				"content_html": "<p>Fake flowers</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fake flowers\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/8deaa8206f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-09-04T09:03:36-04:00",
+				"url": "https://bobwertz.com/2011/09/04/fake-flowers.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/08/27/tablecloth.html",
+				
+				"content_html": "<p>Tablecloth</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tablecloth \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/e96ea385d1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-08-27T20:20:56-04:00",
+				"url": "https://bobwertz.com/2011/08/27/tablecloth.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/08/21/treetops.html",
+				
+				"content_html": "<p>Treetops</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Treetops\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/04ed9bab8b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-08-21T16:00:39-04:00",
+				"url": "https://bobwertz.com/2011/08/21/treetops.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/08/17/adluh.html",
+				
+				"content_html": "<p>Adluh</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Adluh\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/b1e30b694a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-08-17T08:44:37-04:00",
+				"url": "https://bobwertz.com/2011/08/17/adluh.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/08/08/my-office-very-clean.html",
+				
+				"content_html": "<p>My office, very clean</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My office, very clean\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/533fb2ea43.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-08-08T11:12:02-04:00",
+				"url": "https://bobwertz.com/2011/08/08/my-office-very-clean.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/07/31/rainbow.html",
+				
+				"content_html": "<p>Rainbow</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Rainbow\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/aa33c86984.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-07-31T20:23:17-04:00",
+				"url": "https://bobwertz.com/2011/07/31/rainbow.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/07/31/ceiling-fan-on-back-porch.html",
+				
+				"content_html": "<p>Ceiling fan on back porch.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ceiling fan on back porch. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/acbda23b50.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-07-31T13:20:38-04:00",
+				"url": "https://bobwertz.com/2011/07/31/ceiling-fan-on-back-porch.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/07/24/clouds.html",
+				
+				"content_html": "<p>Clouds</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Clouds\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/629a146bab.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-07-24T19:49:39-04:00",
+				"url": "https://bobwertz.com/2011/07/24/clouds.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/06/24/workshop.html",
+				
+				"content_html": "<p>Workshop</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Workshop \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/2e05065822.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-06-24T09:22:43-04:00",
+				"url": "https://bobwertz.com/2011/06/24/workshop.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/06/17/isle-of-palms.html",
+				
+				"content_html": "<p>Isle of Palms</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Isle of Palms\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/fb71f28d39.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-06-17T10:21:46-04:00",
+				"url": "https://bobwertz.com/2011/06/17/isle-of-palms.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/06/14/florida-rest-stop-signage.html",
+				
+				"content_html": "<p>Florida Rest Stop Signage</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Florida Rest Stop Signage\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/407db46740.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-06-14T11:46:48-04:00",
+				"url": "https://bobwertz.com/2011/06/14/florida-rest-stop-signage.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/06/13/star-tours.html",
+				
+				"content_html": "<p>Star Tours</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Star Tours\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/f691cd57ed.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-06-13T20:05:28-04:00",
+				"url": "https://bobwertz.com/2011/06/13/star-tours.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/06/12/castle-at-dusk.html",
+				
+				"content_html": "<p>Castle at dusk</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Castle at dusk\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/e40d190ced.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-06-12T20:31:13-04:00",
+				"url": "https://bobwertz.com/2011/06/12/castle-at-dusk.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/06/08/baby-grey.html",
+				
+				"content_html": "<p>Baby Grey</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Baby Grey\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/4ba6ab0bc8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-06-08T23:17:26-04:00",
+				"url": "https://bobwertz.com/2011/06/08/baby-grey.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/06/07/checking-email-on-a-break.html",
+				
+				"content_html": "<p>Checking email on a break.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Checking email on a break. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/64a08cf89e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-06-07T10:32:12-04:00",
+				"url": "https://bobwertz.com/2011/06/07/checking-email-on-a-break.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/06/01/ultrasound-machine-sliders.html",
+				
+				"content_html": "<p>Ultrasound machine sliders.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ultrasound machine sliders. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/e01bce4845.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-06-01T08:53:32-04:00",
+				"url": "https://bobwertz.com/2011/06/01/ultrasound-machine-sliders.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/05/19/foil-stamping-on-neenah-classic.html",
+				
+				"content_html": "<p>Foil stamping on Neenah Classic Linen Gold Pearl.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Foil stamping on Neenah Classic Linen Gold Pearl.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/ebf2b3db6d.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-05-19T20:49:57-04:00",
+				"url": "https://bobwertz.com/2011/05/19/foil-stamping-on-neenah-classic.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/04/03/153129.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/67587/2026/7975ce6ef1.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-04-03T15:31:29-04:00",
+				"url": "https://bobwertz.com/2011/04/03/153129.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/28/my-vw-satellite-radio-changes.html",
+				
+				"content_html": "<p>My VW satellite radio changes the $ to an international currency symbol.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My VW satellite radio changes the $ to an international currency symbol. \n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/21324c6c4e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-28T18:54:00-04:00",
+				"url": "https://bobwertz.com/2011/02/28/my-vw-satellite-radio-changes.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/25/hot-doughnuts-now.html",
+				
+				"content_html": "<p>Hot doughnuts now&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hot doughnuts now...\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/ba89bf9275.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-25T20:26:24-04:00",
+				"url": "https://bobwertz.com/2011/02/25/hot-doughnuts-now.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/24/thumbnails.html",
+				
+				"content_html": "<p>Thumbnails</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Thumbnails\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/8ff6c526de.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-24T23:05:12-04:00",
+				"url": "https://bobwertz.com/2011/02/24/thumbnails.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/22/no-slamming.html",
+				
+				"content_html": "<p>No slamming</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "No slamming\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/b6784f3a00.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-22T11:09:23-04:00",
+				"url": "https://bobwertz.com/2011/02/22/no-slamming.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/19/playground.html",
+				
+				"content_html": "<p>Playground</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Playground\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/e16ff78af7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-19T17:03:43-04:00",
+				"url": "https://bobwertz.com/2011/02/19/playground.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/19/new-plaza-by-the-river.html",
+				
+				"content_html": "<p>New plaza by the river</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New plaza by the river\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/3be8743211.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-19T15:56:22-04:00",
+				"url": "https://bobwertz.com/2011/02/19/new-plaza-by-the-river.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/19/eddies-shoe.html",
+				
+				"content_html": "<p>Eddie&rsquo;s shoe</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Eddie's shoe\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/e4c036e386.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-19T15:36:45-04:00",
+				"url": "https://bobwertz.com/2011/02/19/eddies-shoe.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/15/more-mrs-sketchbook-b-pottery.html",
+				
+				"content_html": "<p>More Mrs. Sketchbook B pottery</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "More Mrs. Sketchbook B pottery\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/62a79548f9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-15T22:29:55-04:00",
+				"url": "https://bobwertz.com/2011/02/15/more-mrs-sketchbook-b-pottery.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/15/mrs-sketchbook-bs-creations.html",
+				
+				"content_html": "<p>Mrs. Sketchbook B&rsquo;s creations</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Mrs. Sketchbook B's creations\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/f12a35042f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-15T22:21:40-04:00",
+				"url": "https://bobwertz.com/2011/02/15/mrs-sketchbook-bs-creations.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/13/hello-kitty-painted-by-yearold.html",
+				
+				"content_html": "<p>Hello Kitty, painted by 3-year-old</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Hello Kitty, painted by 3-year-old\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/46872d19d0.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-13T20:34:16-04:00",
+				"url": "https://bobwertz.com/2011/02/13/hello-kitty-painted-by-yearold.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/13/tonights-art-project.html",
+				
+				"content_html": "<p>Tonight&rsquo;s art project</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tonight's art project\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/f21140ed1a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-13T20:32:44-04:00",
+				"url": "https://bobwertz.com/2011/02/13/tonights-art-project.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/12/cents.html",
+				
+				"content_html": "<p>25 cents</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "25 cents\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/74108ff002.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-12T19:28:01-04:00",
+				"url": "https://bobwertz.com/2011/02/12/cents.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/12/the-market.html",
+				
+				"content_html": "<p>The Market</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The Market\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/460d1f45e7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-12T12:15:28-04:00",
+				"url": "https://bobwertz.com/2011/02/12/the-market.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/02/khaki.html",
+				
+				"content_html": "<p>Khaki</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Khaki\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/b25402737f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-02T16:27:23-04:00",
+				"url": "https://bobwertz.com/2011/02/02/khaki.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/01/194735.html",
+				
+				"content_html": "<p>214</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "214\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/5e26585a75.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-01T19:47:35-04:00",
+				"url": "https://bobwertz.com/2011/02/01/194735.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/02/01/lights.html",
+				
+				"content_html": "<p>Lights</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lights\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/25fe1ad084.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-02-01T19:46:28-04:00",
+				"url": "https://bobwertz.com/2011/02/01/lights.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/31/my-new-unmatched-style-sticker.html",
+				
+				"content_html": "<p>My new Unmatched Style sticker on my clipboard.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My new Unmatched Style sticker on my clipboard.\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/40afc96b04.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-31T12:50:56-04:00",
+				"url": "https://bobwertz.com/2011/01/31/my-new-unmatched-style-sticker.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/30/tic-tac-toe.html",
+				
+				"content_html": "<p>Tic Tac Toe</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tic Tac Toe\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/bc54005b0e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-30T13:59:32-04:00",
+				"url": "https://bobwertz.com/2011/01/30/tic-tac-toe.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/28/flower-arrangement.html",
+				
+				"content_html": "<p>Flower Arrangement</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Flower Arrangement\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/3f86698f7f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-28T14:31:59-04:00",
+				"url": "https://bobwertz.com/2011/01/28/flower-arrangement.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/26/empty-school-hallway.html",
+				
+				"content_html": "<p>Empty school hallway</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Empty school hallway\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/2862c5092c.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-26T18:19:41-04:00",
+				"url": "https://bobwertz.com/2011/01/26/empty-school-hallway.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/25/dad-at-dentist-by-norah.html",
+				
+				"content_html": "<p>Dad at Dentist (by Norah)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dad at Dentist (by Norah)\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/2a61abcfc2.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-25T09:26:01-04:00",
+				"url": "https://bobwertz.com/2011/01/25/dad-at-dentist-by-norah.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/10/more-snowstorm.html",
+				
+				"content_html": "<p>More snowstorm</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "More snowstorm\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/cb2f80ffe9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-10T09:13:30-04:00",
+				"url": "https://bobwertz.com/2011/01/10/more-snowstorm.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/10/snowstorm.html",
+				
+				"content_html": "<p>Snowstorm</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Snowstorm\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/4ff5ed77d3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-10T09:06:33-04:00",
+				"url": "https://bobwertz.com/2011/01/10/snowstorm.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/10/snowstorm-south-carolina.html",
+				
+				"content_html": "<p>Snowstorm: South Carolina</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Snowstorm: South Carolina\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/d6b32fd8d5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-10T08:56:47-04:00",
+				"url": "https://bobwertz.com/2011/01/10/snowstorm-south-carolina.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2011/01/09/norahs-cake.html",
+				
+				"content_html": "<p>Norah&rsquo;s Cake</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Norah's Cake\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/2cbb6cab51.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2011-01-09T15:52:30-04:00",
+				"url": "https://bobwertz.com/2011/01/09/norahs-cake.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/12/26/white-christmas.html",
+				
+				"content_html": "<p>White Christmas</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "White Christmas\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/c780e7b73f.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-12-26T10:18:00-04:00",
+				"url": "https://bobwertz.com/2010/12/26/white-christmas.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/12/17/lettering-workinprogress.html",
+				
+				"content_html": "<p>Lettering Work-In-Progress</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Lettering Work-In-Progress\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/c11a2efbf6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-12-17T12:25:07-04:00",
+				"url": "https://bobwertz.com/2010/12/17/lettering-workinprogress.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/12/17/christmas-tree.html",
+				
+				"content_html": "<p>Christmas Tree</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Christmas Tree\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/260e07e922.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-12-17T01:41:03-04:00",
+				"url": "https://bobwertz.com/2010/12/17/christmas-tree.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/12/11/ferrari.html",
+				
+				"content_html": "<p>Ferrari</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ferrari\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/5db0536f75.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-12-11T15:00:34-04:00",
+				"url": "https://bobwertz.com/2010/12/11/ferrari.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/12/09/table.html",
+				
+				"content_html": "<p>Table</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Table\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/73fb55e9d3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-12-09T20:27:38-04:00",
+				"url": "https://bobwertz.com/2010/12/09/table.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/11/25/dinner.html",
+				
+				"content_html": "<p>Dinner</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Dinner\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/bf8f6ee8eb.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-11-25T13:21:21-04:00",
+				"url": "https://bobwertz.com/2010/11/25/dinner.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/11/19/west-side-bowery.html",
+				
+				"content_html": "<p>West Side Bowery</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "West Side Bowery\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/925b0a5949.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-11-19T13:52:43-04:00",
+				"url": "https://bobwertz.com/2010/11/19/west-side-bowery.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/11/16/heading-south-for-the-winter.html",
+				
+				"content_html": "<p>Heading south for the winter</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Heading south for the winter\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/93d2fcd022.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-11-16T14:18:11-04:00",
+				"url": "https://bobwertz.com/2010/11/16/heading-south-for-the-winter.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
+				"id": "http://bobwertz.micro.blog/2010/11/12/inshow-awards.html",
+				
+				"content_html": "<p>InShow Awards</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "InShow Awards\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/fcc8651425.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2010-11-12T21:30:17-04:00",
+				"url": "https://bobwertz.com/2010/11/12/inshow-awards.html",
+				"tags": ["Quick Thoughts"]
+			},
+			{
 				"id": "http://bobwertz.micro.blog/2010/10/31/ice-hockey.html",
 				
 				"content_html": "<p>Ice Hockey</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ice Hockey\n\n<img src=\"uploads/2026/1e6738c612.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ice Hockey\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/1e6738c612.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2010-10-31T18:00:20-04:00",
 				"url": "https://bobwertz.com/2010/10/31/ice-hockey.html",
 				"tags": ["Quick Thoughts"]
@@ -8866,7 +9523,7 @@
 				"id": "http://bobwertz.micro.blog/2010/10/31/birthday-party.html",
 				
 				"content_html": "<p>Birthday Party</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Birthday Party\n\n<img src=\"uploads/2026/69cdf0d3dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Birthday Party\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/69cdf0d3dd.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2010-10-31T17:57:43-04:00",
 				"url": "https://bobwertz.com/2010/10/31/birthday-party.html",
 				"tags": ["Quick Thoughts"]
@@ -8875,7 +9532,7 @@
 				"id": "http://bobwertz.micro.blog/2010/10/29/south-aiken-vs-white-knoll.html",
 				
 				"content_html": "<p>South Aiken vs. White Knoll</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "South Aiken vs. White Knoll\n\n<img src=\"uploads/2026/444558acc5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "South Aiken vs. White Knoll\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/444558acc5.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2010-10-29T20:23:38-04:00",
 				"url": "https://bobwertz.com/2010/10/29/south-aiken-vs-white-knoll.html",
 				"tags": ["Quick Thoughts"]
@@ -8884,7 +9541,7 @@
 				"id": "http://bobwertz.micro.blog/2010/10/29/ellen-lupton-aiga-lecture.html",
 				
 				"content_html": "<p>Ellen Lupton AIGA Lecture</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ellen Lupton AIGA Lecture\n\n<img src=\"uploads/2026/02baddbf41.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ellen Lupton AIGA Lecture\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/02baddbf41.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2010-10-29T09:30:44-04:00",
 				"url": "https://bobwertz.com/2010/10/29/ellen-lupton-aiga-lecture.html",
 				"tags": ["Quick Thoughts"]
@@ -8893,7 +9550,7 @@
 				"id": "http://bobwertz.micro.blog/2010/10/28/mcmaster.html",
 				
 				"content_html": "<p>McMaster</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "McMaster\n\n<img src=\"uploads/2026/17d94b25ab.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "McMaster\n\n<img src=\"https://cdn.uploads.micro.blog/67587/2026/17d94b25ab.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2010-10-28T18:13:13-04:00",
 				"url": "https://bobwertz.com/2010/10/28/mcmaster.html",
 				"tags": ["Quick Thoughts"]
